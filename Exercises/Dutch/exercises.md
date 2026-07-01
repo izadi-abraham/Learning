@@ -9088,10 +9088,28 @@ Heb jij een afspraak?
 ---------------------------------------------
 
 Ik wil graag naar de apotheek gaan.
-Ik wil graag doen dat.
-Ik will test <br>
-Ik will teseten.
-Het is belangrijke test.
+Wie zijn de werkneemers vandaag?
+Wie zijn de werknemers vandaag?
+Wie zijn de werknemers vandaag?
+De staat heeft een paar kanalen.
+De stad heeft een paar kananlen.
+De stad heeft een paar kanalen.
+Wij wonen in verschillende regios van Nederlands.
+Wij wonen in verschillende regio's van Nederland.
+Hoeveel brugen zijn er in Amsterdam?
+Hoeveel bruggen zijn er in Amsterdam?
+Wat kopen jullie van de kunstenaar?
+De kunstenaar draagt een kleurijke hoed.
+De kunstenaar draagt een kleurrijke hoed.
+Wat kopen jullie van de kunstenaar?
+De bezorgde ouders hebben veel vragen.
+Mijn huis staat op een heuvel.
+De windmollen op de heuvel is heel oud.
+De windmolen op de heuvel is heel oud.
+Mijn huis is op een heuvel.
+Mijn huis staat op een heuvel.
+
+---
 
 
 
