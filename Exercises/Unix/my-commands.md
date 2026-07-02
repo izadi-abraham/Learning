@@ -83,3 +83,42 @@ ssh - secure shell
 rsync - sync directories and files over the network ???
 
 -------------------------------------
+
+
+curl - Client URL - CURL is the http client
+
+
+curl -s -H "Authorization: Bearer $TOKEN" "https://test-nl.datahive.online/api/v2/registry-account/select-list?book=goo&type=short&accountId=28101" | jq
+curl -s -H "Authorization: Bearer $TOKEN" "https://test-nl.datahive.online/api/v2/registry-account/select-list?book=goo&type=short&accountId=28101" | jq ".data[].value"
+curl -s -H "Authorization: Bearer $TOKEN" "https://test-nl.datahive.online/api/v2/registry-account/select-list?book=goo&type=short&accountId=28101" | jq ".message"
+call the API with authorization token in header (-H), siletntly (-s) and then pipe it to jq (json processor) to pretty print the json response
+
+401 - Unauthorized -> Means you are not authenticated -> missing/invalid/expired token
+
+402 - Forbidden -> Means you are not authorized > Not allowed to access this resource
+
+204 - No Content -> There is no content in the body of the response, usually the preflight responses get this. In these preflight requests by browsers the answer is only in the header.
+
+curl -s -i -X OPTIONS "https://test-nl.datahive.online/api/v2/registry-account/selct-list?book=goo&type=short&accountId=28101" \
+-H "Origin: https://bid-offer-us-uat.datahive.online/" \
+-H "Access-Control-Request-Method: GET" \
+-H "Access-Control-Request-Headers: authorization" \
+2>&1 | head -40
+
+This is impersonating a browser's CORS preflight handshake
+-H "Origin:..." -> I am a browser page loaded from this origin
+-H "Access-...-Method" -> If this preflight succeds, I plan to send a GET request
+-H "Access-...-Headers" -> My real request will include an Authorizatino header
+
+curl -c cookies.txt -X POST https://api.example.com/login \
+-H "Content-Type: application/json" \
+-d '{"email": "test@example.com", "password": "1234"}'
+
+Server can send this as header: Set-Cookie: session_id=abc123
+
+curl -b cookies.txt https://api.example.com/profile
+
+Now curl send this as header: Cookie: session_id=abc123
+
+-c -> Cookie jar - store cookies
+-b -> Send cookies - As browser does automatically

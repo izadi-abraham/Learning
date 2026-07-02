@@ -9109,10 +9109,38 @@ De windmolen op de heuvel is heel oud.
 Mijn huis is op een heuvel.
 Mijn huis staat op een heuvel.
 
----
+--- dag 826
 
+De boer heeft geen paard.
+Ik houd van het Nederlandse landschaap.
+Ik houd van het Nederlandse landschap.
+Ben jij veerlipt op iemand?
+Ben jij veerliefd op iemand?
+Ben jij veerliefd op iemand?
+Ben jij veerliefd op iemand?
+Ben jij verliefd op iemand?
+Boer zoekt vrouw.
+Ik ben een beetje veerliefd.
+Ik ben een beetje verliefd.
+De directeur wilt kofie met melk.
+De directeur wil kofie met melk.
+Ik ben naar de hoofdstad aan het fietsen.
+Ik ben naar de hoofdstad aan het fietsen.
+Het plein van de hoofdstad is oud.
+Dat is een grote voostein.
+Dat is een grote woestein.
+Dat is een grote woestijn.
+De bakker kent de slacher.
+De bakker kent de slager.
+Dat is een grote woestijn.
+Het is een landschap met burgen.
+Het is een landschap met bergen.
+Ik been een gelukkige bakker.
+Ik been een gelukkige bakker.
+Haar man is de directeur.
+Het is een grote woestijn.
 
-
+--- dag 827
 
 
 
