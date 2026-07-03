@@ -122,3 +122,8 @@ Now curl send this as header: Cookie: session_id=abc123
 
 -c -> Cookie jar - store cookies
 -b -> Send cookies - As browser does automatically
+
+
+---
+
+
