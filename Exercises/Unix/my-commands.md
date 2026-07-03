@@ -95,7 +95,15 @@ call the API with authorization token in header (-H), siletntly (-s) and then pi
 
 401 - Unauthorized -> Means you are not authenticated -> missing/invalid/expired token
 
-402 - Forbidden -> Means you are not authorized > Not allowed to access this resource
+403 - Forbidden - Access Denied -> Means you are not authorized > Not allowed to access this resource
+
+404 - Not Found - The requested resource does not exist (or the server chooses not to reveal that it exists)
+
+409 - Conflict -> Trying to register a user withe the email that already exist
+
+422 - Unprocessable Entity
+
+201 - Created
 
 204 - No Content -> There is no content in the body of the response, usually the preflight responses get this. In these preflight requests by browsers the answer is only in the header.
 
@@ -122,3 +130,50 @@ Now curl send this as header: Cookie: session_id=abc123
 
 -c -> Cookie jar - store cookies
 -b -> Send cookies - As browser does automatically
+
+---
+
+find - searches a directory tree recursively for files and directories that match specified criteria (such as name, type, size, or modification time)
+
+
+find . -nam ".env.example"
+find all files/directories named .env.example recursively from the current directory.
+
+find . -type d node_modules -prune -o -name "package.json" -print
+find . -name "package.json" -not -path "*/node_modules/*"
+filters out results inside node_modules but find still traverses those directories. The prune version is more efficient on large projects.
+
+
+---
+
+docker ps
+lists the Docker containers that are currently running.
+
+docker exec postgres psql -U list -d list -c "\dt"
+Inside the docker container `postgres`, connect to the PostgreSQL database `list` as user `list`, and print all tables.
+
+docker exec postgres ...
+run a command inside the running container named 'postgres'
+
+psql
+PostgreSQL command-line client
+
+-U list
+connect to the database as 'user: list'
+
+-d list
+connect to the database named list 'database: list'
+
+-c "\dt"
+run a SQL meta command and exit. List all tables in the current database and exit.
+
+--- 
+
+jq - pretty print json files??? - Can be very useful when you pipe the response from curl to it.
+
+jq ".scripts" ./package.json
+prints the scripts object in the package.json file.
+
+
+---
+
