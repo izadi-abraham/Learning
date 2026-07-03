@@ -9142,8 +9142,31 @@ Het is een grote woestijn.
 
 --- dag 827
 
+De slager is gestoped met zijn werk.
+De slager is gestopt met zijn werk.
+Onze auto is gestopt.
+Wat is jouw beroep?
+Wat is jouw beroep?
+De schrijver van het boek eet pasta.
+Hoe wordt jij een goede schrijver?
+Hoe word je een goede schrijver?
+Mijn vriendien is jaloers.
+Ik ben een beetje jaloers op jow pretige haar.
+Ik ben een beetje jaloers op jouw mooie haar.
+Ik ben vandaag zo vroelek.
+Ik ben vandaag zo vrolijk.
+Ik ben vandaag zo vrolijk.
+Ik ben vandaag zo vrolijk.
+Jij werkt als een bewaker.
+De bewaker drinkt koffie.
+Belgie en Nederland zijn landen.
+Ik zie de grens tussen de landen.
+Belgie en Nederland zijn landen.
+Hoe word je een goede schrijver?
+Mijn vriendin is jaloers.
+Belgie en Nederland zijn landen.
 
-
+--- dag 828
 
 
 

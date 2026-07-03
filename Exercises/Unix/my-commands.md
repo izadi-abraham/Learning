@@ -131,15 +131,16 @@ Now curl send this as header: Cookie: session_id=abc123
 -c -> Cookie jar - store cookies
 -b -> Send cookies - As browser does automatically
 
+
 ---
 
 find - searches a directory tree recursively for files and directories that match specified criteria (such as name, type, size, or modification time)
 
 
-find . -nam ".env.example"
+find . -name ".env.example"
 find all files/directories named .env.example recursively from the current directory.
 
-find . -type d node_modules -prune -o -name "package.json" -print
+find . -type d -name node_modules -prune -o -name "package.json" -print
 find . -name "package.json" -not -path "*/node_modules/*"
 filters out results inside node_modules but find still traverses those directories. The prune version is more efficient on large projects.
 
@@ -169,11 +170,8 @@ run a SQL meta command and exit. List all tables in the current database and exi
 
 --- 
 
-jq - pretty print json files??? - Can be very useful when you pipe the response from curl to it.
+jq - A command-line JSON processor. It can pretty-print JSON and extract specific fields. Very useful when piping the output of `curl`.
 
 jq ".scripts" ./package.json
 prints the scripts object in the package.json file.
-
-
----
 
