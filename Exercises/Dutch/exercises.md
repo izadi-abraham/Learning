@@ -9168,6 +9168,47 @@ Belgie en Nederland zijn landen.
 
 --- dag 828
 
+It was done in the phone.
+
+--- dag 829
+
+Deze ..... is goed voor jouw huid.
+Deze zalf is goed voor je huis.
+Deze zald if goed voor je huid.
+Ik heb geen pillen nodig om te gezondheid blijven.
+Ik heb geen pillen nodig om gezondheid te blijven.
+Ik heb geen pillen nodig om gezond te blijven.
+Kies je de blauwe of rode pillen?
+Kies je de blauwe of de rode pil?
+Jouw toestand kan opeens veranderen.
+Heb ik koorts?
+Is het een griep of een koorts?
+Is het een griep of koorts?
+Het kind is allergisch voor aardebeine.
+Het kind is allergisch voor aardbeien.
+Welke operatie?
+Welke virus heb jij?
+Welk virus hebben ze?
+Mijn vriend is eernste gewond.
+Mijn vriend is ernstig gewond.
+Mijn vriend is ernstig gewond.
+Hoeveel operatie heb jij nodig?
+Hoeveel operatie heb jij nodig?
+We kunnen de prijs van die geneesmiddelen niet betalen.
+De geneesmiddelen werkt.
+De geneesmiddel werkt.
+Is het een ernstige ziekte?
+Is het een ernstige ziekte?
+Het is het dieet.
+Mijn vriend is ernstig gewond.
+Hoeveel operaties heb jij nodig?
+Het geneesmiddel werkt.
+Het is het dieet.
+Hoeveel operaties heb jij nodig?
+Het geneesmiddel werkt.
+
+--- 830
+
 
 
 
