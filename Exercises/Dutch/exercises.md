@@ -9209,7 +9209,25 @@ Het geneesmiddel werkt.
 
 --- 830
 
+Zij heeft een roze pleister op zijn knie.
+Waar liggen de pleisters?
+Ik duw de rolstoel van mijn opa.
+De arts heeft een patient.
+Zijn moeder is een verpleegkundige.
+We probeer de bloed te stoppen met een pleister.
+We proberen de bloed te stoppen met een pleister.
+De artsen heeft geen haar.
+De artsen hebben geen haar.
+Doen de voeten van de artsen pijn?
+Heb jij een afspraak?
+Goedemorgen, ik wil graag een afspraak maken.
+Waarom heb jij verbaand om je hoofd?
+Waarom heb jij verband om je hoofd?
+Ik duw de rolstoel van mijn opa.
+Zijn moeder is een verpleegkundige.
+Hij heeft een roze pleister op zijn kine.
 
+--- 831
 
 
 
