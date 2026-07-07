@@ -50,6 +50,9 @@ find . -name "*.spec.ts" | grep -l "bulk\BULK"
 finds in the current directory all files which their names ends with .spec.ts and gives the output as a text file (this text file includes only the file names like ./src/events/records.events.spec.ts) to grep, so grep only
 searches the words bulk or BULK in the file names.
 
+find . -type d -iname "akira*"
+find all directories that matches the pattern in their names (case insensetive - i)
+
 -----------------------------------------
 
 xargs - extended arguments
