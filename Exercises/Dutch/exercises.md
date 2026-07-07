@@ -9229,6 +9229,32 @@ Hij heeft een roze pleister op zijn kine.
 
 --- 831
 
+De patient heeft griep.
+De patient heeft de griep.
+De patiente heeft griep.
+Er geburen vaak ongelukken op deze plek.
+Er gebeuren vaak ongelukken op deze plek.
+Heb ik koorts?
+Waar ben je allergisch voor?
+Kan je me hulpen op mijn rolstoel opst
+Kan je me hulpen opstaan uit mijn rolstoel?
+Kan je me helpen opstaan uit mijn rolstoel?
+Zijn moeder is een verpleegkundige.
+Werkt het geneesmiddel tegen het virus?
+De artsen hebben geen haar.
+Waarom heb je verban om je hoofd?
+Waarom heb je verband om je hoofd?
+De brandweerman is op dieet.
+We kunnen de prijs van het geneesmdiddelen niet betalen.
+We kunnen de prijs van die geneesmiddelen niet betallen.
+We kunnen de prijs van die geneesmiddelen niet betalen.
+Hij klinkt een beetje ziek.
+Hoe is uw gezondheid?
+Ik heb pijn in mijn rug.
+Waar liggen de pleisters?
+Waarom heb je verband om je hoofd?
+
+--- Dag 832 - Section 3, Unit 21
 
 
 
