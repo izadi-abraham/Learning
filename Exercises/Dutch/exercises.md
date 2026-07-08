@@ -9256,6 +9256,38 @@ Waarom heb je verband om je hoofd?
 
 --- Dag 832 - Section 3, Unit 21
 
+Wat heb je gelezen?
+Wat heeft hij geschrijven?
+Wat heeft hij geschreven?
+Dat boek heb ik ook gelezen.
+Heb jij op dit nummber geschreven?
+Heb jij dit nummer op geschreven?
+Heb jij dit nummer opgeschreven?
+Welke occean heb jij gezien?
+Welke oceanen heb jij gezien?
+Ik heb dit nog nooit gegeten.
+Ik heb het met mijn ogen gezien.
+Ik heb het met mijn eigen ogen gezien.
+Ik heb het met eigen mijn ogen gezien.
+Ik heb het met mijn eigen ogen gezien.
+De studenten hebben niet gegeten.
+Waar zijn jullie vandaag gekommen?
+Waar zijn jullie vandaan gekomen?
+Ik ben net gekomen.
+Zij hebben drie boeken geschreven.
+Ik heb net over mijn moeder in de krant gelezen.
+Ik heb net over mijn moeder in de krant gelezen.
+Mijn broers hebben daar gegeten.
+Al mijn vrienden hebben mijn met haar gezien.
+We hebben hem net gezien in de supermarkt.
+Ja, de ambulance is ommiddelek gekomen.
+Ja, de ambulance is onmiddelek gekomen.
+Ja, de ambulance is onmiddellijk gekomen.
+Ja, de ambulance is onmiddellijk gekomen.
+Wij hebben gisteren over kaas gelezen.
+Wat heeft hij geschreven?
+
+--- Dag 833
 
 
 
