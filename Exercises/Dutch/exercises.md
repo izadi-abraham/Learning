@@ -9289,8 +9289,47 @@ Wat heeft hij geschreven?
 
 --- Dag 833
 
+Ik heb daar gestaan.
+Ik heb daar gestaan.
+Waarom heb je op de tafel gestaan?
+Waar ben je geweest?
+Waar ben je geweest?
+Jouw man is niet in dit land geweest.
+Jouw man is niet in dit land geweest.
+Jouw man is niet in dit land geweest.
+Ik ben naar bed gegaan.
+Heb ik dat goed begrepen?
+Heb ik dat goed begrepen?
+Sorry, maar ik begrep het niet.
+Heb ik dat goed begrepen?
+Wij zijn naar het park gegaan te spelen.
+Wij zijn naar het park gegaan om te spelen.
+Hebben jullie begrepen wat ik gezegt heb?
+Hebben jullie begrepen wat ik gezegd heb?
+Hebben jullie begrepen wat ik gezegd heb?
+Ik heb met de muizen geslapen.
+Nadat wij hebben gegeten, rennen wij.
+Nadat wij hebben gegeten, rennen wij.
+Nadat wij hebben gegeten, rennen wij.
+Hij heeft geslapen en jij gespeeld.
+Hij heeft geslapen en jij heeft gespeld.
+Hij heeft geslapen en jij hebt gespeeld.
+Hij heeft de hele tijd gestaan.
+Nadat ik naar bed gegaan ben slaap ik.
+Nadat ik naar bed gegaan, ben slaap ik.
+Nadat ik naar bed gegaan ben, slaap ik.
+Nadat wij hebben gegeten, rennen wij.
+Nadat ik naar bed gegaan ben, slaap ik.
+Wij zijn hier nooit gewest.
+Ik heb met de muizen geslapen.
+Hebben jullie begrepen wat ben ik gezegd?
+Hebben jullie begrepen wat ik gezegd heb?
+Hij heeft geslapen en jij hebt gespeeld.
+Ik heb met de muizen geslapen.
+Hebben jullie gegrepen wat ik gezegd heb?
+Hij heeft geslapen en jij hebt gespeeld.
 
-
+--- Dag 834
 
 
 
