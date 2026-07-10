@@ -9331,8 +9331,45 @@ Hij heeft geslapen en jij hebt gespeeld.
 
 --- Dag 834
 
+Ik heb wat melk gedronken.
+Ik heb wat melk gedronken.
+Jij hebt lange tijd gelopen.
+Ik heb vandaag geen water gedronken.
+Ik ben iedere dag naar jouw huis gelopen.
+Wie heeft deze muziek gekozen?
+Ik heb gekozen wat ik heb nodig het.
+Ik heb gekozen wat ik nodig het.
+Ik heb gekozen wat ik nodig heb.
+Haar babie is van ochtend geboren.
+Haar baby is vanochtend geboren.
+Haar baby is vanochtend geboren.
+Iemand heeft 
+Die man heeft in dit water gezwomen.
+Die man heeft in dit water gezwommen.
+Die man heeft in dit water gezwommen.
+Heb je vanochtend te krant gelezen?
+Heb je vanochtend de krant gelezen?
+Ik heb vanochtend drie kilometer gezwommen.
+Mijn tanden 
+Mijn tante heeft mijn klompen gedraagt.
+Mijn tante heeft mijn klompen gebracht.
+Mijn tante heeft mij klompen gebracht.
+Mijn vriend heeft me naar mijn huis gebracht.
+Mijn vrien heeft me naar huis gebracht.
+Mijn vriend heeft me naar huis gebracht.
+Ik wil graag naar huis gaan.
+We hebben hem naar het vliegveld gebracht.
+We hebben elke dag in de zea gezwommen.
+We hebben elke dag in de zee gezwommen.
+Wij hebben elke dag op het strand gelopen.
+Je hebt weer verkeerd antwoord gekozen.
+Je hebt weer verkeerde antwoord gekozen.
+Hebben jullie gekozen waar jullie heen gaan?
+Hebben jullie gekozen waar jullie heen gaan?
+Mijn vriend heeft me naar huis gebracht.
+Hebben jullie gekozen waar jullie heen gaan?
 
-
+--- Dag 835
 
 
 
