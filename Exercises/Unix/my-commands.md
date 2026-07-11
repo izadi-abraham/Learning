@@ -178,3 +178,40 @@ jq - A command-line JSON processor. It can pretty-print JSON and extract specifi
 jq ".scripts" ./package.json
 prints the scripts object in the package.json file.
 
+---
+
+history - shows the history of commands that the current terminal's tab knows. So if you do reverse search then
+it looks this history file up.
+
+---
+
+ctrl + r - (reverse-i-search)`': - Also called history search - Searches backward through your command history, 
+starting with the most recent matching command. It looks up commands from the current terminal session and 
+commands saved in your ~/.bash_history file from previous sessions.
+
+ctrl + r - Each press of ctrl + r will go to the next older matching command.
+
+Enter - Runs the command immediately.
+
+Right arrow - The command is copied onto the command line so you can edit before running.
+
+ctrl + g || ctrl + c - Will cancel or aborts the reverse search.
+
+!git - Searches for last command begining with 'git'.
+
+!?docker? - Searches for the last command containing docker.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
