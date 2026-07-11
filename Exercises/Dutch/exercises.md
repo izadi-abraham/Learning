@@ -9371,7 +9371,51 @@ Hebben jullie gekozen waar jullie heen gaan?
 
 --- Dag 835
 
+Vandaag was mijn vierde dag sinds ik weer ben begonnen met hardlopen.
+Wat heb je gedaan?
+De herfst is begonnen.
+Wie heeft er boodschapen gedaan?
+Wie heeft er boodschappen gedaan?
+Ik ben begonnen Nederlands te leren.
+Nu heb ik genoeg gehald.
+Nu heb ik genoeg gehad.
+Ik heb het niet gebregen.
+Ik heb het niet gekregen.
+Ik heb het niet gekregen.
+Hij heeft geen dieet gehald.
+Hij heeft geen dieet gehad.
+Hij heeft geen tijd gehad.
+Van wie heeft u die geld gekregen?
+Van wie heeft u dit geld gekregen?
+Gisteren heb ik een boek gekogt.
+Gisteren heb ik een boek gekocht.
+Gisteren heb ik een boek gekocht.
+Vanochtend heb ik vers brood gekocht bij de bakker.
+Vanochtend heb ik vers brood gekocht bij de bakker.
+Ik heb het vijf minuten gelede geschrijven.
+IK heb het vijf minuten gelden geschgreven.
+Ik heb het vijf minuten geleden geschreven.
+Ik heb het vijf minuten geleden geschreven.
+Dat heb jij gedaan.
+Dat heb jij gedaan?
+Dat heb jij gedaan.
+Ik weet niet meer wat een half jaar gelede hebt gezecht.
+Ik weet niet meer wat je een half jaar geleden heb gezecht.
+Ik weet niet meer wat je een half jaar geleden hebt gezecht.
+Ik weet niet meer wat je een half jaar geleden hebt gezegd.
+Ik heb het gedaan.
+Wat hebben je gisteren gedaan?
+Dat hebben we gisteren gedaan.
+Ja het is al begonnen.
+Ja, het is al begonnen.
+Ze heeft geen hulp gehad.
+Ze heeft geen hulp gehad.
+Hij heeft geen tijd gehad.
+Ik weet niet meer wat je hebt een half jaar geleden gezegd.
+Ik weet niet meer wat je een half jaar geleden hebt gezegd.
+Hij heeft geen tijd gehad.
 
+--- Dag 836
 
 
 
