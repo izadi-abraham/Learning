@@ -9417,8 +9417,50 @@ Hij heeft geen tijd gehad.
 
 --- Dag 836
 
+Ik ben vandaag niet gaan hardlopen. Het plan is om het om de dag te doen.
+Wij zijn angekomen.
+Wij zijn aangekomen.
+Waar heb je gezogd?
+Waar heb je gezocht?
+Waar heb je gezocht?
+Waneer ben je aangekomen?
+Wanneer ben je aangekomen?
+Ik heb overal gezocht maar ik kan niet vinden.
+Ik heb overal gezocht maar ik kan het niet vinden.
+Heb je aan me gedacht?
+Het is heel koud geworden.
+Ze heeft overal aangedacht.
+Ze heeft overal aan gedacht.
+Ze heeft overal aan gedacht.
+Het hele gebied is een woestijn geworden.
+Het hele gebied is een woestijn geworden.
+Wie heeft het aan hem gegeven?
+Wie heeft het aan hem gegeven?
+Ik ben voorigjaar in Engeland gewest.
+Ik ben voorigjaar in Engeland gweest.
+Ik ben voorigjaar in Engeland geweest.
+Ik ben vorig jaar in Engeland geweest.
+Ik ben vorig jaar in Engeland geweest.
+Hij heeft mij de auto gegeven.
+Hij heeft mij de auto gegeven.
+Ik ben op het station aan gekomen.
+Ik ben op het station aangekomen.
+We hebben vorig weken echt een noeshoorn gezien.
+We hebben vorige weken echt een noeshoorn gezien.
+We hebben vorige week een echt neushoorn gezien.
+We hebben vorige week een echt neushoorn gezien.
+De politie heeft hem gezocht.
+Hij heeft me de auto gegeven.
+Hij heeft mij de auto gegeven.
+Hij heeft mij nog niet een antword.
+Hij heeft mij not geen antword gegeven.
+Hij heeft mij nog geen antwoord gegeven.
+Ik ben nooit aan het gedacht.
+Ik heb nooit aan het gedacht.
+Ik heb daar nog nooit over nagedacht.
+Ik heb daar nog nooit over nagedacht.
 
-
+--- Dag 837
 
 
 
