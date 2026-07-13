@@ -9462,8 +9462,30 @@ Ik heb daar nog nooit over nagedacht.
 
 --- Dag 837
 
+Ik heb vanochtend niet hardgelopen. Ik vind het heerlijk te doen, maar ik werd laat wakker, dus heb ik het overgeslagen.
+Hebben jullie gekozen waar jullie heen gaan?
+Mijn vriend heeft me naar huis gebracht.
+Waat heeft hij geschreven?
+Heeft u gebegrepen wat ik gezegd?
+Hebben jullie begrepen wat ik gezegd heb?
+Heeft u begrept wat ik gezegd heb?
+Heeft u begrepen wat ik gezegd heb?
+Ik heb met de muizeg geslaapt.
+Ik heb met de muizen geslapen.
+Hij heeft geslapen en jij heeft gespelen.
+Hij heeft geslapen en jij hebt gespeeld.
+Ik ben vorig jaar in Engeland geweest.
+Ik heb twee jaar geleden in je schaap gekocht.
+Ik heb twee jaar geleden een schaap gekocht.
+Ik heb twee jaar geleden een schaap gekocht.
+Jouw man is niet in dit land geweest.
+Heb je vanochtend de krant gelezen?
+Heb je aan me gedacht?
+Ik heb een uur naar het boek gezocht.
+Hebben jullie begrepen wat ik gezegd heb?
+Heeft u begrepen wat ik gezegd heb?
 
-
+--- Dag 838
 
 
 
