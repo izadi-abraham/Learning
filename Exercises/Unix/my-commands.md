@@ -173,6 +173,24 @@ run a SQL meta command and exit. List all tables in the current database and exi
 
 --- 
 
+psql - PostgreSQL command-line client needs a database url so it can connect to the database
+
+psql postgresql://list:changeme@localhost:5432/list
+connects to my local databes which is running inside a docker container, with user as list, password as changeme,
+and the DB name is list.
+
+---
+
+PostgreSQL meta commands
+
+\dt
+List all tables in the current databas.
+
+\d items
+shows the current shape of table named items. Including all the columns, types of columns, foreign keys, relations...
+
+--- 
+
 jq - A command-line JSON processor. It can pretty-print JSON and extract specific fields. Very useful when piping the output of `curl`.
 
 jq ".scripts" ./package.json
@@ -203,9 +221,42 @@ ctrl + g || ctrl + c - Will cancel or aborts the reverse search.
 
 ---
 
+evince file.pdf
+Start evince and wiat for evince to exit. Many GUI programs don't detach automatically.
 
+evince file.pdf &
+Start evince and immediately give me my prompt back.
+Usually we see something like:
+[1] 12345 - [1] this is the job number (used by the shell) and 12345 is the PID.
 
+gedit notes.txt &
+firefox https://example.com &
+vlc movie.mkv &
 
+---
+
+jobs - You can see list of jobs started from your current terminal.
+
+[1]+ running evince file.pdf &
+
+fg %1 - foreground - bring the job No.1 to the foreground.
+Now the terminal is again waiting for evince to exit and you can not run other commands.
+
+Ctrl+z - stops the process - While the terminal is waiting for the GUI app (evince in this case) to exit, if you press
+ctrl+z then we stop the process ID, we DO NOT KILL the process, just STOP it. It is frozen.
+
+And then if you use 
+
+bg %1 - Resumes a stopped job and lets it continue in the background.
+
+If we stopp the evince file.pdf command and in the GUI we try to interact with the pdf window which is still open then it doesnt respond.
+
+---
+
+kill %1 - stop job number 1.
+kill 48291 - stop process with the PID 48291.
+
+---
 
 
 
