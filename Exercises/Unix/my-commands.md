@@ -258,6 +258,23 @@ kill 48291 - stop process with the PID 48291.
 
 ---
 
+date - Prints the current date and time. It's an external executable program which is know by shell.
+
+date +%F - Prints the date in this format YYYY-MM-DD - %F is a shortcut for %Y-%m-%d
+
+--- 
+
+which - shows where is ???
+
+Bash itself provides built-in commands (like cd, echo, pwd), but it can also run external programs found in directories listed in your PATH.
+
+cd -> bash built in
+date -> external program -> /usr/bin/date
+ls -> external program -> /usr/bin/ls
+grep -> external program -> /usr/bin/grep
+
+---
+
 
 
 
