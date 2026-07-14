@@ -9487,7 +9487,32 @@ Heeft u begrepen wat ik gezegd heb?
 
 --- Dag 838
 
+Ik ben net gekomen.
+Ik ben net gekomen.
+Wat heb je gelezen?
+Wat heb je gelezen?
+What heeft je gelezen?
+Wat heb je gelezen?
+Ik ben net gekomen.
+Ja, de ambulance is onmiddelijk gekomen.
+Mijn broers .... daar gegeten.
+Mijn broers hebben daar gegeten.
+Wij hebben een lange tijd gewacht, maar hij is niet gekomen.
+Ik heb met mijn ogen gezien.
+Ik heb het met mijn eigen ogen gezien.
+Ja de ambulance is onmiddelijk gekomen.
+Hij wil niet zwemmen omdat hij heeft net gegeten.
+Hij wil niet zwemmen omdat hij net gegeten heeft.
+Mijn broers hebben daar gegeten.
+Wat heeft hij geschreven?
+Al mijn vrienden hebben haar met mijn gezien.
+Al mijn vrienden hebben mijn met haar gezien.
+Wij hebben gisteren over kaas gelezen.
+Ik heb dat boek ook gelezen.
+Dat boek heb ik ook gelezen.
+De studenten hebben niet gegeten.
 
+--- Dag 839
 
 
 
