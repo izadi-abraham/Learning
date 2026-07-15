@@ -30,7 +30,7 @@ grep -E
 use Extended Regular Expressions (ERE) - less escaping 
 normally grep uses Basic Regular Expressions (BRE)
 
-grep -rn "getBusinessEntityByBook" ./src/ --include=".ts" A 5 B 5 | grep -E "book|Book|BOOK|GOO|IREC"
+grep -rn "getBusinessEntityByBook" ./src/ --include=".ts" -A 5 -B 5 | grep -E "book|Book|BOOK|GOO|IREC"
 search recursively and show line numbers for the matches for the expression "getBusiness..." in the src directory, only look inside the file names ending with .ts, show 5 lines after the match found and 5 lines before
 the match found, and pipe the output to grep for search using Extended Regular Expression for the words mentioned in the double quotes.
 
@@ -300,6 +300,10 @@ year -> "2026"
 xdg-open fileName.suffix - xdg stands for Cross-Desktop Group - Opens the file, URL or directory with the default application.
 
 open fileNmae.suffix - It's the same command but in MacOS.
+
+---
+
+head -n fileName - Displays the first n line of the file
 
 ---
 
