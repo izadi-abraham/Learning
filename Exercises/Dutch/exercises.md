@@ -9514,5 +9514,40 @@ De studenten hebben niet gegeten.
 
 --- Dag 839
 
+We zijn naar het park gegan te spelen.
+We zijn naar het park gegan om te spelen.
+We zijn naar het park gegaan om te spelen.
+Na hebben we gegeten, we gerenen.
+Na wij hebben gegeten, rennen wij.
+Nadat wij hebben gegeten, rennen wij.
+Ik heb daar gestaan.
+Ik heb daar gestaan.
+Hij heeft de hele tijd gestaan.
+Mijn tante heeft op haar stoel gestaan.
+Mijn tante heeft op haar stoel gestaan.
+Jouw man is niet in dit land gewest.
+Jouw man is niet in dit land geweest.
+Wij hebben nog nooit hier geweest.
+Wij zijn hier nooit geweest.
+Wij zijn nooit hier geweest.
+Wij zijn hier nooit geweest.
+We zijn daat nog nooit geweest.
+We zijn daar nog nooit geweest.
+Ik heb met de muizen geslapne.
+Waar ben je geweest?
+Waar ben je geweest?
+Mijn tante heeft op her stoel gestaan.
+Wij zijn hier nooit geweest.
+Hij heeft geslapen en jij heeft gespelt.
+Hij heeft geslapen en jij hebt gespeld.
+Hij heeft geslapen en jij hebt gespeeld.
+Ik heb daar gestaan.
+Ik heb vier dagen niet geslapen.
+Wij zijn naar het park gegan om te spelen.
+Wij zijn naar het park gegaan om te spelen.
+Nadat wij hebben gegeten, gespelen wij.
+Nadat wij hebben gegeten, rennen wij.
+
+--- Dag 840
 
 
