@@ -275,7 +275,27 @@ grep -> external program -> /usr/bin/grep
 
 ---
 
+Regular Expressions
 
+/^(\d{2})-(\d{2})-(\d{4})$/
+
+^ - Begining of the match - This ensures that the match starts immediately at the first charactar.
+
+\d - Any digit (0-9)
+
+{2} - Exactly 2 times
+
+() - Creates capturing group and it lets you extract parts of the match.
+fullDatePattern = /^(\d{2})-(\d{2})-(\d{4})$/
+const [entireMatch, day, month, year] = "15-07-2026".match(fullDatePattern)
+enitireMatch -> "15-07-2026"
+day -> "15"
+month -> "07"
+year -> "2026"
+
+/^(\d{2})-(\d{2})-(\d{4})T(\d{2}):(2)$/ - Matches teh full date time pattern
+
+--- 
 
 
 
