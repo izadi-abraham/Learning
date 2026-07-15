@@ -297,6 +297,12 @@ year -> "2026"
 
 --- 
 
+xdg-open fileName.suffix - xdg stands for Cross-Desktop Group - Opens the file, URL or directory with the default application.
+
+open fileNmae.suffix - It's the same command but in MacOS.
+
+---
+
 
 
 
