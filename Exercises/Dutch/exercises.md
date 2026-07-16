@@ -9550,4 +9550,34 @@ Nadat wij hebben gegeten, rennen wij.
 
 --- Dag 840
 
+Wie heeft deze muziek gekozen?
+Ik heb wat melk gedronek.
+Ik heb wat melk gedronken.
+Haar baby is vanochtend geboren.
+Jij bent over een lange tijd gelopen.
+Jij hebt lange tijd gelopen.
+Dat man heeft in deze water gezwemmen.
+Die man heeft in dit water gezwemmen.
+Jij heeft lange tijd gelopen.
+Ik heb wat melk gedronken.
+We hebben elke dag in zee gezwommen.
+We hebben elke dag in de zee gezwommen.
+Ik heb elke dag naar jouw huis gelopen.
+Ik ben iedere dag naar jouw huis gelopen.
+Heb je vanochtend de krant gelezen?
+We hebben elke dag in de zee gezwommen.
+Mijn vriend heeft me naar huis gebracht.
+Hebben jullie gekozen waar jullie gegan?
+Hebben jullie gekozen waar jullie heen gaan?
+Ik heb gekozen wat ik nodig heb.
+Jij hebt gekozen de verkeerde antwoord.
+Jij hebt de verkeerde antwoord gekozen.
+Je hebt weer het verkeerde antwoord gekozen.
+Wij hebben elke dag op het strand gelopen.
+Hij slaapt nadat het warme melk
+Hij slaapt nadat hij warme melk heeft gedronken.
+Ik ben iedere dag naar jouw huis gelopen.
+Je hebt weer de verkeerde antwoord gekozen.
+Je hebt weer het verkeerde antwoord gekozen.
 
+--- 
