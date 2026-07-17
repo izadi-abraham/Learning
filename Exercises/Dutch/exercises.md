@@ -9580,4 +9580,38 @@ Ik ben iedere dag naar jouw huis gelopen.
 Je hebt weer de verkeerde antwoord gekozen.
 Je hebt weer het verkeerde antwoord gekozen.
 
+--- 841
+
+Wat heb je gedan?
+Wat heb je gedaan?
+Ik heb het gedaan.
+Ze heeft geen hulp gehad.
+Ik heb een .... kas voor mijn verjaardag gehad.
+Ik heb een stukje kaas voor mijn verjardag gekregen.
+Ik heb een stukje kaas voor mijn verjardag gekregen.
+Jammer dat je .... ban niet gekrege het.
+Jammer dat je de ban niet gekrege het.
+Jammer dat je de baan niet gekregen het.
+Jammer dat je de baan niet gekregen het.
+Ik gekopen een schap vorig twee jaar.
+Ik heb twee jar geleden een schaap gekocht.
+Ik heb twee jar geleden een schaap gekocht.
+Ja, het is al begonen.
+Ja, het is al begonnen.
+We hebben dat gisteren gedaan.
+Dat hebben we gisteren gedaan.
+Ik heb het vijf minuten gelede geschreven.
+Ik heb het vijf minuten geleden geschreven.
+Ik heb gisteren een boek gekocht.
+Gisteren heb ik een boek gekocht.
+Ik ben begonnen Nederlands te leren.
+Ik heb het niet gekregen.
+De herfst is begonnen.
+Hij heeft geen tijd gehad.
+Wat heb je gedaan?
+Ik heb begonnen Nederlans te leren.
+I weet niet meer wat je een half jaar geleden gezecht.
+I weet niet meer wat je een half jaar geleden hebt gezecht.
+Ik heb twee jar gelede een schaap gekocht.
+
 --- 
