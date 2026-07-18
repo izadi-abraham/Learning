@@ -9487,6 +9487,7 @@ Heeft u begrepen wat ik gezegd heb?
 
 --- Dag 838
 
+<<<<<<< Updated upstream
 Ik ben net gekomen.
 Ik ben net gekomen.
 Wat heb je gelezen?
@@ -9513,6 +9514,46 @@ Dat boek heb ik ook gelezen.
 De studenten hebben niet gegeten.
 
 --- Dag 839
+=======
+Waar heb je gezokt?
+Waar heb je gezocht?
+De politie heeft hem gezockt.
+Ik heb een uur naar het boek gezocht.
+Mijn ouders zijn net naar het station aangekomen.
+Mijn ouders zijn net op het station aangekomen.
+Mijn ouders zijn net op het station aangekomen.
+De hele .... heeft een woerdijn worden.
+Het hele gebied is een woestijn geworden.
+Ik ben vorig jaar in Engeland geweest.
+Mijn zus heeft vorige zomer in de ocean gezwommen.
+Mijn zus heeft vorige zomer in de oceaan gezwommen.
+Wie heeft aan hem gegeven?
+Wie heeft het aan hem gegeven?
+Hij heeft nog niet me een antword gegeven.
+Hij heeft nog niet een antword me gegeven.
+Hij heeft mij nog niet antword gegeven.
+Hij heeft mij nog geen antword gegeven.
+We hebben vorige weken echt een noeshoorn gezien.
+We hebben vorige week echt een noeshoorn gezien.
+We hebben vorige week een echte neushoorn gezien.
+Het heeft hele koud geworden.
+Het is hele koud geworden.
+Waanner ben je aangekomen?
+Ik heb allemaal gezockt maar ik kan niet het vinden.
+Ik heb overal gezocht, maar ik kan het niet vinden.
+Het is heel koud geworden.
+Wie heeft hem het gegeven?
+Wie heeft het hem gegeven?
+Wie heegt hem het gegeven?
+Wie heeft het aan hem gegeven?
+Ik heb overal gezockt, maar ik kan het niet vinden.
+Wij zijn aangekomen.
+Het hele gebied is een woestijn geworden.
+Hij heeft nog geen antword gegeven.
+Hij heeft mijn nog geen antword gegeven.
+
+--- 
+>>>>>>> Stashed changes
 
 We zijn naar het park gegan te spelen.
 We zijn naar het park gegan om te spelen.
