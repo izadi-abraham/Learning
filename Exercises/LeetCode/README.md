@@ -12,3 +12,7 @@ Rules:
 - Revisit old problems.
 - Focus on understanding.
 
+
+## Patterns
+
+- [ ] Hash Set
