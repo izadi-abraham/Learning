@@ -9487,7 +9487,6 @@ Heeft u begrepen wat ik gezegd heb?
 
 --- Dag 838
 
-<<<<<<< Updated upstream
 Ik ben net gekomen.
 Ik ben net gekomen.
 Wat heb je gelezen?
@@ -9514,7 +9513,7 @@ Dat boek heb ik ook gelezen.
 De studenten hebben niet gegeten.
 
 --- Dag 839
-=======
+
 Waar heb je gezokt?
 Waar heb je gezocht?
 De politie heeft hem gezockt.
@@ -9552,8 +9551,7 @@ Het hele gebied is een woestijn geworden.
 Hij heeft nog geen antword gegeven.
 Hij heeft mijn nog geen antword gegeven.
 
---- 
->>>>>>> Stashed changes
+--- Dag 840
 
 We zijn naar het park gegan te spelen.
 We zijn naar het park gegan om te spelen.
@@ -9589,7 +9587,7 @@ Wij zijn naar het park gegaan om te spelen.
 Nadat wij hebben gegeten, gespelen wij.
 Nadat wij hebben gegeten, rennen wij.
 
---- Dag 840
+--- Dag 841
 
 Wie heeft deze muziek gekozen?
 Ik heb wat melk gedronek.
@@ -9621,7 +9619,7 @@ Ik ben iedere dag naar jouw huis gelopen.
 Je hebt weer de verkeerde antwoord gekozen.
 Je hebt weer het verkeerde antwoord gekozen.
 
---- 841
+--- Dag 842
 
 Wat heb je gedan?
 Wat heb je gedaan?
@@ -9654,5 +9652,26 @@ Ik heb begonnen Nederlans te leren.
 I weet niet meer wat je een half jaar geleden gezecht.
 I weet niet meer wat je een half jaar geleden hebt gezecht.
 Ik heb twee jar gelede een schaap gekocht.
+
+--- Dag 843
+
+Het hele gebied is een woestijn geworden.
+Hij heeft mijn nog geen antword gegeven.
+Hij heeft mij nog geen antword gegeven.
+Het hele gebied is een woestijn geworden.
+We hebben vorige week een echt neushoorn gezien.
+We hebben vorige week een echte neushoorn gezien.
+Ik heb het met mijn eigen ogen gezien.
+Dat boek heb ik ook gelezen.
+De studenten hebben niet gegeten.
+Ik heb vanochtend drie kilometer gezwommen.
+Mijn ouders zijn net op het station aangekomen.
+We hebben elke dag in de zee gezwommen.
+We hebben elke dag in de ziee gezwommen.
+We hebben elke dag in de zee gezwommen.
+Wat heb je gelezen?
+Mijn zus heeft gelede jaar in de oceaan gezwommen.
+Mijn zus heeft vorige zomer in de oceaan gezwommen.
+We hebben vorige week een echte neushoorn gezien.
 
 --- 
