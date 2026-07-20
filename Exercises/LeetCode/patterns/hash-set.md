@@ -1,13 +1,10 @@
-
 # Hash Set
 
 ## Use when
 
-
 - Detect duplicates
 - Fast lookup
 - Track visited items
-
 
 ## Complexity
 
@@ -15,16 +12,13 @@ Lookup: O(1) average
 
 Insert: O(1) average
 
-
 ## Problems
 
-- 0217- Contains Duplicate
-
+- [0217 Contains Duplicate](../problems/0217-contains-duplicate.md)
 
 ## Related patterns
 
 Hash Map
-
 
 ## Real-world examples
 
@@ -32,22 +26,21 @@ Hash Map
 - Detect repeated requests
 - Cache visited pages
 
-
 ## Questions
 
 - What is the difference between an Array, an Object, a Map, and a Set in JavaScript?
 
 In Array the lookup would be O(n) but in an Object the lookup would be O(1). Map is just a modern JavaScript tool to create Maps and avoid JS quirks like the Object's key
-can not be a number or an Object's prototype chain's surprises. Set is again another tool that helps you build an object of unique members, fas lookup. On both Map and Set
-There are some handy methods that you can use and they are very efficient. Like map.set(key, value) or map.get(key). set.has(value) or set.add(value).
+can not be a number or an Object's prototype chain's surprises. Set is again another tool that helps you build an object of unique members, fast lookup. On both Map and Set
+there are some handy methods that you can use and they are very efficient. Like map.set(key, value) or map.get(key). set.has(value) or set.add(value).
 
-## Arrays 
+## Arrays
 
 - Ordered collection.
 - O(1) access by index.
 - O(n) search by value.
 
-## Object 
+## Object
 
 - Stores key/value pairs.
 - Average O(1) lookup.
@@ -63,11 +56,10 @@ There are some handy methods that you can use and they are very efficient. Like 
 - Avoids prototype-chain issues
 - Useful methods: set(), get(), has(), delete()
 
-
 ## Set
 
 - Collection of unique values.
 - Duplicate values are ignored.
 - Average O(1) lookup.
 - Average O(1) insertion.
-- Userful methods: add(), has(), delete()
+- Useful methods: add(), has(), delete()
