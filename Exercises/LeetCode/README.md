@@ -10,10 +10,9 @@ Get better at problem solving by learning one pattern at a time.
 
 ## How I work
 
-1. Copy `TEMPLATE.md` to `problems/<number>-<slug>.md`.
-2. Solve it in `problems/<number>-<slug>.ts` (or any language).
-3. Add a line to the log below.
-4. Write down what the pattern taught me in `patterns/<pattern>.md`.
+1. Copy `TEMPLATE.md` to `problems/<number>-<slug>.md` — notes and code both live there.
+2. Add a line to the log below.
+3. Write down what the pattern taught me in `patterns/<pattern>.md`.
 
 ## Log
 

@@ -19,6 +19,19 @@ Compare every number with every other one. Time O(n²) / Space O(1).
 Use a JavaScript Set, because the value itself isn't important — only whether it
 has been seen before. Time O(n) / Space O(n).
 
+```ts
+function containsDuplicate(nums: number[]): boolean {
+  const seen = new Set<number>();
+
+  for (const num of nums) {
+    if (seen.has(num)) return true;
+    seen.add(num);
+  }
+
+  return false;
+}
+```
+
 ## What I learned
 
 - A Set is the right data structure when only existence matters.

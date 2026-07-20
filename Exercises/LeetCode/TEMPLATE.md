@@ -12,9 +12,17 @@ What I thought of before writing any code.
 
 Approach, and why it is slow. Time / Space:
 
+```ts
+
+```
+
 ## Better solution
 
 What made it click. Time / Space:
+
+```ts
+
+```
 
 ## What I learned
 
