@@ -9674,4 +9674,25 @@ Mijn zus heeft gelede jaar in de oceaan gezwommen.
 Mijn zus heeft vorige zomer in de oceaan gezwommen.
 We hebben vorige week een echte neushoorn gezien.
 
+--- Dag 844
+
+Hij is de baas van onze afdeleing.
+Hij is de baas van onze afdeling.
+Welke supermarkt is goedkoop?
+In de supermarkt hebben ze alles.
+In de supermarkt hebben ze alles.
+Er is een lange rij voor de kassa.
+Er is een lange rij voor de kassa.
+We staan in de rij.
+Ja de stoefzuiger is nog steeds kapot.
+Ja, de stofzuiger is nog steeds kapot.
+Ja, de stofzuiger is nog steeds kapot.
+Het is geen stomme vrag.
+Het is geen stomme vraag.
+Mijn verjaardag is op zeven mei.
+Zijn verjaardag is niet op december.
+Zijn verjaardag is niet in december.
+Ik zie de man daar staan.
+Ik zie de man daar staan.
+ 
 --- 
