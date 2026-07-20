@@ -10,6 +10,27 @@ Given an array of numbers, say whether any value shows up more than once.
 
 Use an object as a hash map to remember numbers already seen.
 
+```ts
+function containsDuplicate(nums: number[]): boolean {
+  const map: Record<string, number> = {};
+  
+  for (let i = 0; i < nums.length; i++) {
+    
+    // if map[nums[i]] is not undefined then this member already exist, so early return true.
+    if (map[nums[i]]) {
+        return true;
+    }
+
+    // if map[nums[i]] is undefined then this is the first time
+    if (!map[nums[i]]) {
+        map[nums[i]] = 1;
+    }
+  }
+
+  return false;  
+};
+```
+
 ## Brute force
 
 Compare every number with every other one. Time O(n²) / Space O(1).
