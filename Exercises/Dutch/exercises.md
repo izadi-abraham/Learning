@@ -9695,4 +9695,23 @@ Zijn verjaardag is niet in december.
 Ik zie de man daar staan.
 Ik zie de man daar staan.
  
+--- Dag 845
+
+Ik koop iets op de markt.
+We gaan naar de markt.
+Waarrom zijn sommige mensen rijkt maar ik niet.
+Waarom zijn sommige mensen rijk, maar ik niet?
+De boterham paast niet in mijn mond.
+De boterham past niet in mijn mond.
+We moeten snel een datum kiezen.
+Het is een blangrijke datum.
+Het is een belangrijke datum.
+Ze doet boodschappen op de markt.
+Hij muurt een mooie pak
+Hij huurt een mooie pak voor het feest.
+Hij huurt een mooi pak voor het feest.
+Ik laat de thee koud worden.
+Ik laat de thee koud worden.
+Ik heb de hele dag gewerkt.
+
 --- 
