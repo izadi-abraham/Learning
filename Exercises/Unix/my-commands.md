@@ -133,6 +133,9 @@ Now curl send this as header: Cookie: session_id=abc123
 
 -c -> Cookie jar - store cookies
 -b -> Send cookies - As browser does automatically
+-s -> silent - Hides the progress meter and error messages
+-H -> Header - Let's you add a custom HTTP header to your request.
+-I -> (HEAD request) - Fetches only the HTTP response header, not the page content.
 
 
 ---
@@ -307,9 +310,9 @@ head -n fileName - Displays the first n line of the file
 
 ---
 
+dig (Domain Information Groper) - is used to query DNS servers. It is mainly used to troubleshoot DNS issues.
 
-
-
+---
 
 
 
