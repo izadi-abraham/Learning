@@ -96,6 +96,8 @@ curl -s -H "Authorization: Bearer $TOKEN" "https://test-nl.datahive.online/api/v
 curl -s -H "Authorization: Bearer $TOKEN" "https://test-nl.datahive.online/api/v2/registry-account/select-list?book=goo&type=short&accountId=28101" | jq ".message"
 call the API with authorization token in header (-H), siletntly (-s) and then pipe it to jq (json processor) to pretty print the json response
 
+302 - Temporary redirect -> It tells the client (browser), the resource is temporarly located at a different URL. Use the new URL for this request (in the response header,"location:"), but keep using the original one in the future.
+
 401 - Unauthorized -> Means you are not authenticated -> missing/invalid/expired token
 
 403 - Forbidden - Access Denied -> Means you are not authorized > Not allowed to access this resource
