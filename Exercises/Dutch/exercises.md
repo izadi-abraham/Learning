@@ -9714,4 +9714,24 @@ Ik laat de thee koud worden.
 Ik laat de thee koud worden.
 Ik heb de hele dag gewerkt.
 
+--- Dag 846
+
+Welke Nederlandse worden ken jij?
+Welke Nederlandse woorden ken jij?
+De muizen eten alle Nederlandse kaasen.
+De muizen eten alle Nederlandse kaas.
+De muizen eten alleen Nederlandse kaas.
+Vandaag is woensdag.
+Pardon mevrouw, waar zijn de paskamers?
+We horen de kinderen met een bal spelen.
+We horen de kinderen met een bal spelen.
+De muizen eten alleen Nederlandse kaas.
+We werken niet op woensdag.
+Er is geen verkeerd antwoord.
+Er is geen verkeerd antwoord.
+Hoeveel minuten heeft een uur?
+Een eeuw is tien decennia.
+De muizen eten alleen Nederlandse kaas.
+Een eeuw is tien decennia.
+
 --- 
