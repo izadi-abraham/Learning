@@ -9734,4 +9734,50 @@ Een eeuw is tien decennia.
 De muizen eten alleen Nederlandse kaas.
 Een eeuw is tien decennia.
 
+--- Dag 847
+
+Ik heb met de muizen geslaapt.
+Ik heb met de muizen geslapen.
+Nadat we hebben gegeten, kunnen we renen.
+Nadat wij hebben gegeten, renen we.
+Nadat wij hebben gegeten, renen wij.
+Zij hebben drie boeken geschreven.
+We hebben .... hem gezien op de supermakt.
+We hebben hem op de supermarkt gezien.
+We hebben hem net op de supermakt gezien.
+We hebben hem net gezien op de supermarkt.
+We hebben hem net gezien in de supermakrt.
+Waat hebben hem geschreven?
+Wat heeft hij geschreven?
+Waar heb je kommen?
+Waar ben je kommen?
+Waar ben je gekomen?
+Waar ben je vandan gekomen?
+Waar ben je vandaan gekomen?
+Waar zijn jullie vandaan gekomen?
+We zijn daar nog nooit geweest.
+Hij wilt niet zwem, want hij heeft net gegeten.
+Hij heeft net gegeten.
+Hij wilt niet zwemen.
+Hij wil niet zwemmen, omdat hij net gegeten heeft.
+Hij heeft de hele tijd gestaan.
+Wij zijn naar het park gegaan te spelen.
+Wij zijn naar het park gegaan om te spelen.
+De studenten hebben niet gegeten.
+Nee, je hebt me verkeerd begrepen.
+Nee, je hebt me verkeerd begrepen.
+Ik heb naar de bed gegaan.
+Ik heb naar be gegaan.
+Ik ben naar bed gegaan.
+Ik ben naar bed gegaan.
+Wat heb je gelezen?
+Mijn tante heeft gestaan op haar stoel.
+Mijn tante heeft op haar stoel gestaan.
+Waat heeft hij geschreven?
+Wat heeft hij geschreven?
+Waar heb je vandaan gekommen?
+Waar ben je vandaan gekomen?
+Waar zijn jullie vandan gekomen?
+Wat heb je gelezen?
+
 --- 
