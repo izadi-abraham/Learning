@@ -9780,4 +9780,46 @@ Waar ben je vandaan gekomen?
 Waar zijn jullie vandan gekomen?
 Wat heb je gelezen?
 
---- 
+--- Dag 874
+
+We zijn hem naar de vliegveld gekrijgen.
+We hebben hem naar het vliegveld gebracht.
+Ik heb vanochtend drie kilometers gezwammen.
+Ik heb vanochtend drie kilometer gezwommen.
+De herfst is begonnen.
+De herfst is begonnen.
+Nu heb ik geluk gehad.
+Nu heb ik geluk gehaad.
+Nu heb ik genoeg gehad.
+Nu heb ik genoeg gehad.
+Je bent/hebt voor lange tijd gelopen.
+Je hebt voor lange tijd gelopen.
+Je bent voor lange tijd gelopen.
+Jij bent lange tijd gelopen.
+Ik heb het gedaan.
+Ik heb het geleden vijf minuten geschreven.
+Ik heb het vijf minuten geleden geschreven.
+Wat heb je gedaan?
+Wat heb jij gedaan?
+Ik heb vandaag geen water gedronken.
+Ik heb vandaag geen water gedronken.
+Vanochten ik heb verse brood van bakker gekocht.
+Vanochtend heb ik vers brook gekocht bij de bakker.
+Vanochtend heb ik vers brood gekocht bij de bakker.
+We hebben elkde dag op het strand gelopen.
+Wij hebben elke dag op het strand gelopen.
+Hebben jullie gekozen waar te gaan?
+Hebben jullie gekozen waar jullie heen gaan?
+Ik heb het niet gekrijgen.
+Ik heb het niet gekregen.
+Ik heb het vijf minuten geleden geschreven.
+De herfst heeft begonnen.
+De herfst is begonnen.
+We hebben hem naar het vliegveld gebracht.
+Ik heb het vijf minuten geleden geschreven.
+Hebben jullie gekozen waar jullie heen gaan?
+Ik heb het niet gekregen.
+De herfst is begonnen.
+ 
+---
+
