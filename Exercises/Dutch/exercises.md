@@ -9780,7 +9780,7 @@ Waar ben je vandaan gekomen?
 Waar zijn jullie vandan gekomen?
 Wat heb je gelezen?
 
---- Dag 874
+--- Dag 848
 
 We zijn hem naar de vliegveld gekrijgen.
 We hebben hem naar het vliegveld gebracht.
@@ -9821,5 +9821,43 @@ Hebben jullie gekozen waar jullie heen gaan?
 Ik heb het niet gekregen.
 De herfst is begonnen.
  
----
+--- Dag 849
 
+Hij heeft me de auto gegeven.
+Hij heeft mij de auto gegeven.
+Wij zijn aangekomen.
+De hele gebied is een woestijn geworden.
+Hij heeft mij de auto gegeven.
+De politie heeft op mij gezoekt.
+De politie heeft hem gezockt.
+De politie heeft hem gezocht.
+Waanner ben je aangekomen?
+Wanneer ben je aangekomen?
+Waar heeft je gezockt?
+Waar heeft je gezocht?
+Heb je aan me gedagt?
+Heb je aan me gedacht?
+Het heeft hele koud worden.
+Het is hele koud worden.
+Het is heel koud geworden.
+Ik heb daar nog nooit overna gedacht.
+Ik heb daar nog nooit over nagedacht.
+We legen week een echte neushoor gezien.
+We hebben legen week een echte neushoorn gezien.
+We hebben vorige week een echte neushoorn gezien.
+Ik heb vorige jaar in England 
+Ik ben vorige jar in Engeland geweest.
+Ik ben vorig jaar in Engeland geweest.
+Mijn zus heeft vorig zomer in de oceaan gezwommen.
+Mijn zus heeft vorige zomer in de oceaan gezwommen.
+Ik ben vorig jaar in Engeland geweest.
+Zij heeft over alles gedacht.
+Ze heeft overal aan gedacht.
+De politie heeft hem gezocht.
+Heb je aan me gedacht?
+Het is heel koud geworden.
+Wij hebben vorige week een echte neushoorn gezien.
+Ik heb vorig jaar in Engeland geweest.
+Ik ben vorig jaar in Engeland geweest.
+
+---
