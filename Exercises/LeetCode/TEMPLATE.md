@@ -5,29 +5,29 @@ Pattern: | Difficulty: | Date:
 ## The problem in my own words
 
 ## First idea
+What I thought of before writing any code:
 
-What I thought of before writing any code.
 
-## Brute force
+## 1st Version 
 
-Approach, and why it is slow. Time / Space:
-
-```ts
-
-```
-
-## Better solution
-
-What made it click. Time / Space:
 
 ```ts
 
 ```
 
-## What I learned
+Time / Space complexity:
 
--
+## 2nd Version
 
-## Revisit on
 
-YYYY-MM-DD
+```ts
+
+```
+
+Time / Space complexity:
+
+## 3rd Version
+
+```ts
+
+```
