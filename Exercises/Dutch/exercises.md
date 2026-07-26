@@ -9860,4 +9860,36 @@ Wij hebben vorige week een echte neushoorn gezien.
 Ik heb vorig jaar in Engeland geweest.
 Ik ben vorig jaar in Engeland geweest.
 
----
+--- 850
+
+Ik heb dar nog nooit over nagedacht.
+Ik heb daar nog nooit over nagedacht.
+Wat heb jij gelezen?
+Hebben jullie begerepen wat ik gezecht heb?
+Hebben jullie begrepen wat ik gezecht heb?
+Hebben jullie begrepen wat ik gezegd heb?
+Herfst is begonnen.
+De herfst is begonnen.
+De studenten hebben niet gegeten.
+Ik heb het met mijn eigen ogen gezien.
+Ik heb vandaag geen water gedronken.
+Jamer dat je ban niet 
+Jamer dat je de ban niet gekregen heb.
+Jammer dat je de baan niet gekregen hebt.
+Wat hebben je gisteren gedaan?
+Dat hebben we gisteren gedaan.
+Wij hebben hem naar het vliegveld gebracht.
+We hebben hem naar het vliegveld gebracht.
+Gisteren heb ik een boek gekocht.
+Zij hebben drie boeken geschreven.
+Na dat we 
+Nadaat ik naar de bed gegaan slaap ik.
+Nadaat ik naar bed gegaan ben, slaap ik.
+Ik heb een uur over het boek gezoekt.
+Ik heb een uur naar het boek gezokt.
+Ik heb een uur naar het boek gezocht.
+Haar baby is vanochtend geboren.
+We hebben hem naar het vliegveld gebracht.
+Ik heb een uur naar het boek gezocht.
+
+--- Dag 
