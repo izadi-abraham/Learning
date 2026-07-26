@@ -75,12 +75,106 @@ top of stack then we can fill in the distance between index of top of stack elem
 
 ```ts
 
+function sayHello(temperatures) {
+  const answer = []
+  const stack = []
+
+  for(let i = 0; i < temperatures.length; i++) {
+    
+    // check if last stack item is smaller than current one
+    while(stack.length && temperatures[stack[stack.length - 1]] < temperatures[i]) {
+      answer[stack[stack.length - 1]] = i - stack.pop()
+    }
+
+    // end of temperatures
+    if(temperatures[i + 1] === undefined) {
+      answer[i] = 0
+      break
+    }
+    
+    // simple case - 1 day
+    if(temperatures[i] < temperatures[i + 1]) {
+      answer[i] = 1
+    } else {
+      stack.push(i)
+    }
+  }
+
+  // emptying stack and put 0 - ther was no higher number than these
+  while(stack.length) {
+    answer[stack.pop()] = 0
+  }
+
+  return answer
+
+}
+
 ```
 
-Time / Space complexity:
+This versino is improved time complexity wise.
+Now we visit each item in the tem array once in the input array, and in the worst case we have to
+visit all members once more in our stack array. So the time complexity is n * 2 = O(n).
+The sapce complexity is O(n) as well with the same situation as the time.
 
 ## 3rd Version
+We need to simplify our code a bit.
+
+This part is extra, because the loop itself handles this case,
+as this condition alwasy returns false "number < undefined => false"
 
 ```ts
-
+ // end of temperatures
+ if(temperatures[i + 1] === undefined) {
+    answer[i] = 0
+    break
+ }
 ```
+
+Also this part is not needed. Look what our while loop is doing. As long as there is something in the stack,
+and the number which is resolved based on the index in the stack is smaller than current temp,
+it resolves it and place the 1 in the corresponding index in answer array.
+It handles waiting 1 day, 2 day, ...
+So if we just push any index we visit in our temp array into stack then the while does the job for us.
+No need for this part:
+
+```ts
+ // simple case - 1 day
+    if(temperatures[i] < temperatures[i + 1]) {
+      answer[i] = 1
+    } else {
+      stack.push(i)
+    }
+```
+
+And the full simplified version:
+
+```ts
+const answer = []
+  const stack = []
+
+  for(let i = 0; i < temperatures.length; i++) {
+    
+    // check if last stack item is smaller than current one
+    while(stack.length && temperatures[stack[stack.length - 1]] < temperatures[i]){
+      const previousIndex = stack.pop()
+      answer[previousIndex] = i - previousIndex
+    }
+
+    stack.push(i)
+  }
+
+  // emptying stack and put 0 - ther was no higher number than these
+  while(stack.length) {
+    answer[stack.pop()] = 0
+  }
+
+  return answer
+```
+
+And better wording for the complexity:
+
+Each index is pushed onto the stack exactly once and popped at most once.
+Although there is a nested while loop in our for loop but the total number of 
+stack operation across the entire algorithm is at most "2n" and therefore 
+the overal time complexity is O(n).
+
