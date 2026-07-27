@@ -9860,7 +9860,7 @@ Wij hebben vorige week een echte neushoorn gezien.
 Ik heb vorig jaar in Engeland geweest.
 Ik ben vorig jaar in Engeland geweest.
 
---- 850
+--- Dag 850
 
 Ik heb dar nog nooit over nagedacht.
 Ik heb daar nog nooit over nagedacht.
@@ -9892,4 +9892,23 @@ Haar baby is vanochtend geboren.
 We hebben hem naar het vliegveld gebracht.
 Ik heb een uur naar het boek gezocht.
 
---- Dag 
+--- Dag 851 - Section 3, Unit 22 - Talk about food
+
+Er zitten tomaten in de salade.
+Ik eet te veel chocolade.
+De slechte olie is niet lekker.
+De koude boter is hard.
+Pindakaas is geen kaas.
+Kok je met boter of met olie?
+Kook je met boter of met olie?
+De salade is groen.
+Pindakaas is geen kaas.
+Een pindakaas boterham.
+Een boterham met pindakaas.
+Pindakaas is geen kaas.
+Pardon, waarrom drink je mijn frisdrank?
+Pardon, waarom drink je mijn frisdrank?
+
+--- 
+
+
