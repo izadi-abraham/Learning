@@ -21,8 +21,18 @@ DNS isn't just for humans, it is also an abstraction layer between a stable name
 ### DNS Rsolver Picture
 Browser/nslookup -> 127.0.0.53 (local DNS Cache) -> Recursive Resolver -> Root DNS -> .com DNS -> Google Authorative DNS -> 172.217.17.206
 
+In a more precise words, after DNS resolving, the browser knows something like this:
+- Domain: myapp.com
+- IP address: 104.26.10.78
+- Port number: 443
 
-## TCP Connection
+:443  -> HTTPS (Nginx)
+:80   -> HTTP
+:22   -> SSH
+:5432 -> PostgreSQL
+:6379 -> Redis
+
+## TCP Connection (Transmission Control Protocol)
 Suppose DNS replied and browser now has the IP address.
 Browser still can not make an http request, because http is an application protocol.
 Before 2 computers can exchange HTTP messages, the first need a reliable communication channel.
@@ -32,5 +42,19 @@ Browser before sending the HTTP message should konw:
  - Can data arrive reliably?
  - Can both sides agree to talk?
 
+### TCP Handshake process includes:
+ - SYN (synchronization)
+ - SYN-ACK (acknowledgement of synchronisation)
+ - ACK (final acknowledgement)
+
+**DNS** tells us **where** the server is.
+**TCP** establishes a reliable communication channel **with** that server.
+
+When I start a Nest.js app as:
+```
+await app.listen(3000)
+```
+I am telling the OS: "Please accept TCP connections on port 3000 and give them to me."
 
 ## TLS 
+
