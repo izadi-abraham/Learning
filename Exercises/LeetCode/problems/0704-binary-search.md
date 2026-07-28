@@ -1,6 +1,6 @@
-# Binary Search
+# 0704. Binary Search
 
-Pattern: Binary Search | Difficulty: Easy | Date: 23-07-2026
+Pattern: Binary Search | Difficulty: Easy | Date: 2026-07-23
 
 ## The problem in my own words
 Given a sorted array of integers and a target, return the index of the array element which is equal to our target.
@@ -13,7 +13,7 @@ if smaller continue with first half and so on...
 This will be recursive for sure. I mean recursive is cleaner version.
 
 
-## First Version
+## 1st Version
 
 Approach, and why it is slow. Time / Space:
 
@@ -40,7 +40,7 @@ function search(nums: number[], target: number): number {
 };
 ```
 
-## Better solution
+## 2nd Version
 
 What made it click. Time / Space:
 The recursion was a tail recursion, the stacked function calls in the call stack,

@@ -1,6 +1,6 @@
-# Daily Tempreture
+# 0739. Daily Temperatures
 
-Pattern: Stack | Difficulty: Medium | Date: 26-07-2026
+Pattern: Monotonic Stack | Difficulty: Medium | Date: 2026-07-26
 
 ## The problem in my own words
 We have an input array of temperatures. At any index we should return an array of answer which it's corresponding index

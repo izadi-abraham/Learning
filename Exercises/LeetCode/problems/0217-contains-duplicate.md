@@ -6,7 +6,7 @@ Pattern: Hash Set | Difficulty: Easy | Date: 2026-07-19
 
 Given an array of numbers, say whether any value shows up more than once.
 
-## First idea
+## 1st Version
 
 Use an object as a hash map to remember numbers already seen.
 
@@ -31,11 +31,9 @@ function containsDuplicate(nums: number[]): boolean {
 };
 ```
 
-## Brute force
+Brute force: compare every number with every other one. Time O(n²) / Space O(1).
 
-Compare every number with every other one. Time O(n²) / Space O(1).
-
-## Better solution
+## 2nd Version
 
 Use a JavaScript Set, because the value itself isn't important — only whether it
 has been seen before. Time O(n) / Space O(n).

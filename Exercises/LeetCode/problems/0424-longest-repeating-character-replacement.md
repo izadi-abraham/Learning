@@ -1,6 +1,6 @@
-# Longest Repeating Character Replacement
+# 0424. Longest Repeating Character Replacement
 
-Pattern: | Difficulty: Medium | Date: 24-07-2026
+Pattern: Sliding Window | Difficulty: Medium | Date: 2026-07-24
 
 ## The problem in my own words
 Inputs: stiring "s" & integer "k"
@@ -50,7 +50,7 @@ And this was the result of looking at the map and the example and trying to solv
 - This algorythm will iterate over "s" once so O(n) and once over our map which will be maximum O(n). So the time complexity will be O(n).
 - Let's write some conde now :)
 
-## Brute force
+## 1st Version
 
 Approach, and why it is slow. Time / Space:
 When I was trying to iterate over my map, I noticed it's getting more complicated to iterater over the map,
@@ -96,7 +96,7 @@ _.times(1, sayHello("AABABBA", 1));
 
 ```
 
-## Better solution
+## 2nd Version
 The second version worked on the case of "AABABBA, 1" but then failed on "ABAB, 2".
 I observed that it failed because I am officially allowd to replace any character in any place.
 In this example case I can replace index 1 with 1 "A" and then repace index 3 with another "A", then I have 4 "A" and we should return 4.
@@ -141,7 +141,7 @@ function sayHello(s, k) {
 _.times(1, sayHello("AABABBA", 1));
 ```
 
-## Third version
+## 3rd Version
 No the map always makes it more difficult. This problem is just 2 pointer, everything I add to it, makes it more complext and hard to follow.
 I am thinkig when I hit the character which is not equal to my current s[i], then I can decrease K by one and increase the j, and check again,
 if it's the same character now, it means I used one of my k and now I created a new combination substring, if it's not still equal and I have more k,
@@ -185,7 +185,7 @@ function characterReplacement(s: string, k: number): number {
 
 ```
 
-## 4th version
+## 4th Version
 After discussing with my frined Gepeto, I understoo I need to throw away all the code and start seeing it from a different angle.
 That is a sliding window. I need a window which moves to right always.
 Right moves in any iteration.

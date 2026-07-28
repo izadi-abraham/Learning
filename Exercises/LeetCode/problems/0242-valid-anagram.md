@@ -1,6 +1,6 @@
-# Valid Anagram. Title
+# 0242. Valid Anagram
 
-Pattern: | Difficulty: Easy | Date: 21-07-2026
+Pattern: Hash Map | Difficulty: Easy | Date: 2026-07-21
 
 ## The problem in my own words
 
@@ -12,7 +12,7 @@ What I thought of before writing any code.
 
 
 
-## Brute force
+## 1st Version
 
 Approach, and why it is slow. Time / Space:
 After using Map, they ask me to solve this without a Map
@@ -46,7 +46,7 @@ function isAnagram(s: string, t: string): boolean {
 
 ```
 
-## Solution No.1
+## 2nd Version
 
 ```ts
 function isAnagram(s: string, t: string): boolean {
@@ -74,7 +74,7 @@ function isAnagram(s: string, t: string): boolean {
 
 ```
 
-## Solution No.2
+## 3rd Version
 
 Decreased number of the lookup to map and improved naming
 What made it click. Time / Space:

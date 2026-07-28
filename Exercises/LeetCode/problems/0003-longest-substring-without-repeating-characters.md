@@ -1,6 +1,6 @@
-# Longest Substring Without Repeating Characters.
+# 0003. Longest Substring Without Repeating Characters
 
-Pattern: | Difficulty: Medium | Date: 22-07-2026
+Pattern: Sliding Window | Difficulty: Medium | Date: 2026-07-22
 
 ## The problem in my own words
 string s is input, return the length of the longest substring without duplicate characters.
@@ -13,7 +13,7 @@ I need to iterate over my string s.
  - save iterated characters, whenever you hit a duplicate, then you have your substring so far. Count the length of current substring, 
  - save it in the longestLength variable, if it is bigger than the current variable's value. 
 
-## Brute force
+## 1st Version
 
 Approach, and why it is slow. Time / Space:
 
@@ -53,7 +53,7 @@ function lengthOfLongestSubstring(s: string): number {
 };
 ```
 
-## Better solution
+## 2nd Version
 
 What made it click. Time / Space:
 - Time and Space are improved.

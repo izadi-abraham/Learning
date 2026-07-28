@@ -1,6 +1,6 @@
-# Valid Parantheses
+# 0020. Valid Parantheses
 
-Pattern: Stack | Difficulty: Easy | Date: 25-07-2026 - 26-07-2026
+Pattern: Stack | Difficulty: Easy | Date: 2026-07-25 – 2026-07-26
 
 ## The problem in my own words
 Sting s contains '(', ')', '[', ']', '{', '}'.
@@ -89,7 +89,7 @@ const stack = []
 
 ```
 
-## Version 2
+## 2nd Version
 There is a bug in the version 1.
 I need to think more and trace further to understand it.
 It fails on this input "(]".
@@ -155,7 +155,7 @@ function isValid(s: string): boolean {
 };
 ```
 
-## Version 3
+## 3rd Version
 And the 3rd version. In this one the map is simplifed, the metadata is removed.
 The confusion for me was, how can I check if my current s[i] is the same type of the top of stack.
 I tried to use the map in all my conditions, so I was thinking if I want to implement this condition which exist in my previous impelentation:

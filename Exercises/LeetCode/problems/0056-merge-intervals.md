@@ -1,6 +1,6 @@
-# Merge Intervals
+# 0056. Merge Intervals
 
-Pattern: Intervals | Difficulty: Medium | Date: 22-07-2026
+Pattern: Intervals | Difficulty: Medium | Date: 2026-07-22
 
 ## The problem in my own words
 We have an array of intervals. array of sub arrays (sub arrays are exactly length of 2 and index 0 is laways smaller than index 1).
@@ -32,7 +32,7 @@ compare with previous ones. Maybe a map of "index of interval => interval" like 
  5.1-update the last interval's end.
  5.2-Otherwise:push the current interval into result
 
-## First Version
+## 1st Version
 I have this first version after some help but I noticed the sorting doesn't work always.
 Let's see this case "[[4,5],[1,4],[0,1]]", that doesn't move [0,1] to the first index, it only moves that once.
 In the ideal sort algorithm if you find a must change the position element, you need to compare again,
@@ -74,7 +74,7 @@ function merge(intervals: number[][]): number[][] {
 };
 ```
 
-## Better solution
+## 2nd Version
 
 What made it click. Time / Space:
 This is an improved version. The sort part is replaced by JS Array.sort() and the mergin is improved for readability.

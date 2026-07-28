@@ -1,6 +1,6 @@
-# Valid Palindrome. Title
+# 0125. Valid Palindrome
 
-Pattern: Two pointer | Difficulty: Easy | Date: 21-07-1987
+Pattern: Two Pointers | Difficulty: Easy | Date: 2026-07-21
 
 ## The problem in my own words
 Given a string "s", convert all characters to lowercase and remove any non alphanumeric characters.
@@ -20,15 +20,7 @@ Now need to detect if it reads the same. Start 2 index on the staring, one form 
    If they are not the same return false.
    If indexes are equal return true. 
 
-## Brute force
-
-Approach, and why it is slow. Time / Space:
-
-```ts
-
-```
-
-## First Version
+## 1st Version
 
 The problem is this one doesn't compare the exact characters in the middle.
 Example in "raceacar" the "e" and "a" characters in the middle are not checked and it returns true.
@@ -60,7 +52,7 @@ function isPalindrome(s: string): boolean {
 };
 ```
 
-## Second Version
+## 2nd Version
 Can you solve it with space complexity of O(1)
 If we adjust the same string it will do the job then.
 Improved the Regex readibility and skiped the string adjusting/creating a new one.

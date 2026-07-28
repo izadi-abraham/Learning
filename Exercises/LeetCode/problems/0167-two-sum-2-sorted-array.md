@@ -1,6 +1,6 @@
-# Two Sum || - Input Array Is Sorted. Title
+# 0167. Two Sum II - Input Array Is Sorted
 
-Pattern: Two pointers | Difficulty: Medium | Date: 22-07-2026
+Pattern: Two Pointers | Difficulty: Medium | Date: 2026-07-22
 
 ## The problem in my own words
 We have a sorted (increasing order) integer array.
@@ -21,7 +21,7 @@ First I was thinking of only comparing `if(number[i] + number[i + 1] === target)
 We need to compare the first element with all others. So it will be 2 nested loops.
 Ofcourse the brute force version. Which will be O(n^2).
 
-## Brute force
+## 1st Version
 
 Approach, and why it is slow. Time / Space:
 Time complexity is O(n^2)
@@ -40,7 +40,7 @@ function twoSum(numbers: number[], target: number): number[] {
 };
 ```
 
-## Better solution
+## 2nd Version
 
 What made it click. Time / Space:
 I think since the array is sorted, we can just find the middle index,

@@ -1,11 +1,11 @@
 # 0001. Two Sum
 
-Pattern: Hash Map | Difficulty: Easy | Date: 20-07-2026
+Pattern: Hash Map | Difficulty: Easy | Date: 2026-07-20
 
 ## The problem in my own words
 While scanning the array, find two values that add up to the target and return where they occur.
 
-## First idea - Brute force
+## 1st Version
 
 
 ```ts
@@ -38,7 +38,7 @@ function twoSum(nums: number[], target: number): number[] {
 };
 ```
 
-## Better solution
+## 2nd Version
 
 What made it click. Time / Space:
 
@@ -50,8 +50,6 @@ Space: O(1)
 I read a clue - Instead of checking every pair, I have the current number in the array and I konw the target. So now I know what number should I look for to match the target.
 
 Imagine [2, 7, 11, 15] as nums. Now my loop is on 2, and target is 9. So 9 - 2 = 7. I need 7. Now the question can be have I seen 7 before?
-
-### The second version of solution
 
 ```ts
 function twoSum(nums: number[], target: number): number[] {
@@ -83,7 +81,7 @@ function twoSum(nums: number[], target: number): number[] {
 };
 ```
 
-### Improve naming and 
+## 3rd Version 
 
 ```ts
 function twoSum(nums: number[], target: number): number[] {
