@@ -9909,6 +9909,24 @@ Pindakaas is geen kaas.
 Pardon, waarrom drink je mijn frisdrank?
 Pardon, waarom drink je mijn frisdrank?
 
---- 
+--- Dag 852
 
+Nee, je mag maar een koekje.
+Je bent een pannenkoek.
+Is een koekje gebaked?
+Is een koekje gebak?
+De jongen ziet een warme gebak.
+De jongen ziet het warme gebak.
+Is dat genog slagroom?
+Is dat genoeg slagroom?
+Wij houden van pannenkoeken.
+Geen .... all je snoep.
+Geef ons aal je snoep.
+Geef ons al je snoep.
+Wil je de taart proefen?
+Wil je de taart preofen?
+Wil je de taart proeven?
+Is dat genoeg slagroom?
+ 
+--- 
 
