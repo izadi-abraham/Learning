@@ -1,345 +1,296 @@
+# Unix commands
 
-g/re/p -  global/regular expresion/print 
-Search texts inside files 
+Personal cheat-sheet. One `##` per command — flags as a list, real commands in fenced blocks.
 
+## grep — global / regular-expression / print
 
-grep -r 
-serach recursively through all subdirectories.
+Search text inside files.
 
-grep -n 
-show the line number where the matches was found.
+- `grep -r` — recurse through subdirectories
+- `grep -n` — show line numbers for matches
+- `grep -i` — case-insensitive
+- `grep -rn` — recursive + line numbers together
+- `grep -l` — list matching file names only
+- `grep -c` — count matches per file
+- `grep -E` — extended regex (ERE), less escaping than the default BRE (BRE)
+- `grep --include="*.js"` — only search files matching a glob
 
-grep -i
-Ignore uppercase/lowercase - case insensitive
-
-grep -rn
-combining recursive and line numbers together.
-
+```bash
 grep -rn --include="*.js" "Bearer" .
-serach only in JavaScript files
+```
+Search recursively (with line numbers) for `Bearer`, only inside JavaScript files.
 
-grep -l
-list file names only
-
-grep -rc
-count matches found
+```bash
+grep -rc "pattern" .
+```
+Count matches per file, e.g.:
+```
 ==> ./controllers/user.js:3
 ==> ./services/auth.js:1
+```
 
-grep -E
-use Extended Regular Expressions (ERE) - less escaping 
-normally grep uses Basic Regular Expressions (BRE)
-
+```bash
 grep -rn "getBusinessEntityByBook" ./src/ --include=".ts" -A 5 -B 5 | grep -E "book|Book|BOOK|GOO|IREC"
-search recursively and show line numbers for the matches for the expression "getBusiness..." in the src directory, only look inside the file names ending with .ts, show 5 lines after the match found and 5 lines before
-the match found, and pipe the output to grep for search using Extended Regular Expression for the words mentioned in the double quotes.
+```
+Recurse with line numbers for `getBusinessEntityByBook` under `./src/`, only in `.ts` files, showing 5 lines of context after (`-A`) and before (`-B`) each match, then pipe the output through a second grep using an extended regex for the listed words.
 
+## find — search a directory tree for files/directories
 
--------------------------------------------
+Recursively searches from a starting path for entries matching criteria (name, type, size, modification time…).
 
-find - search for files or directories by names.
+- `find . -type d -name "sdk"` — a directory named `sdk`
+- `find . -type d -iname "akira*"` — directories matching the pattern, case-insensitive (`-i`)
+- `find . -name ".env.example"` — files/directories named `.env.example`
 
-
-find . -type d -name "sdk"
-searches for a directory named sdk.
-
+```bash
 find . -name "*.spec.ts" | xargs grep -l "bulk\BULK"
-find in the current directory all the files which their names end with .spec.ts and then search inside those files for the word bulk or BULK, and list only file names for the matches.
+```
+Find all `*.spec.ts` files, then search inside them for `bulk`/`BULK`, listing only the matching file names.
 
+```bash
 find . -name "*.spec.ts" | grep -l "bulk\BULK"
-finds in the current directory all files which their names ends with .spec.ts and gives the output as a text file (this text file includes only the file names like ./src/events/records.events.spec.ts) to grep, so grep only
-searches the words bulk or BULK in the file names.
+```
+Here `grep` receives only the list of file names (not their contents, e.g. `./src/events/records.events.spec.ts`), so it searches for `bulk`/`BULK` in the file names themselves.
 
-find . -type d -iname "akira*"
-find all directories that matches the pattern in their names (case insensetive - i)
+Skip `node_modules`:
+```bash
+find . -type d -name node_modules -prune -o -name "package.json" -print
+find . -name "package.json" -not -path "*/node_modules/*"
+```
+Both filter out results inside `node_modules`. The `-prune` version is more efficient on large projects because `find` doesn't traverse those directories at all.
 
------------------------------------------
+## xargs — extended arguments
 
-xargs - extended arguments
-Takes text from standard input and converts it into arguments for another command.
+Takes text from standard input and turns it into arguments for another command.
 
+## ps — process status
 
------------------------------------------
+- `ps aux` — all processes, detailed
+- `ps -o pid,comm -ax` — show only the PID and command name
 
-ps - Process Status
-
-
-ps aux
-
+```bash
 ps -o pid,comm -ax | grep "Visual Studio Code"
-show only pid anc command of the processes
+```
+Show only the PID and command of the matching processes.
 
--------------------------
+## ipconfig
 
-ipconfig - ???
+> TODO: one-line gloss.
 
+- `ipconfig getifaddr en0` — show your Wi-Fi IP address (en0 is usually Wi-Fi)
 
-ipconfig getifaddr en0
-show your ip address of the Wi-Fi (usually en0 is Wi-Fi)
+## ssh — secure shell
 
-----------------------------------------
+> TODO: add notes and examples.
 
-ssh - secure shell
+## rsync — sync directories and files over the network
 
-----------------------------------------
+> TODO: add flags/examples.
 
-rsync - sync directories and files over the network ???
+## curl — Client URL (HTTP client)
 
--------------------------------------
+- `-s` — silent; hide the progress meter and error messages
+- `-H` — add a custom HTTP header
+- `-I` — HEAD request; fetch only the response headers, not the body
+- `-X <METHOD>` — set the HTTP method
+- `-d '<data>'` — request body
+- `-c cookies.txt` — cookie jar; store received cookies
+- `-b cookies.txt` — send stored cookies (as a browser does automatically)
 
-
-curl - Client URL - CURL is the http client
-
-
+Call an API and pretty-print / extract from the JSON response:
+```bash
 curl -s -H "Authorization: Bearer $TOKEN" "https://test-nl.datahive.online/api/v2/registry-account/select-list?book=goo&type=short&accountId=28101" | jq
 curl -s -H "Authorization: Bearer $TOKEN" "https://test-nl.datahive.online/api/v2/registry-account/select-list?book=goo&type=short&accountId=28101" | jq ".data[].value"
 curl -s -H "Authorization: Bearer $TOKEN" "https://test-nl.datahive.online/api/v2/registry-account/select-list?book=goo&type=short&accountId=28101" | jq ".message"
-call the API with authorization token in header (-H), siletntly (-s) and then pipe it to jq (json processor) to pretty print the json response
+```
+Call the API with an auth token in the header (`-H`), silently (`-s`), then pipe to `jq` to pretty-print the response or pull out specific fields.
 
-302 - Temporary redirect -> It tells the client (browser), the resource is temporarly located at a different URL. Use the new URL for this request (in the response header,"location:"), but keep using the original one in the future.
-
-401 - Unauthorized -> Means you are not authenticated -> missing/invalid/expired token
-
-403 - Forbidden - Access Denied -> Means you are not authorized > Not allowed to access this resource
-
-404 - Not Found - The requested resource does not exist (or the server chooses not to reveal that it exists)
-
-409 - Conflict -> Trying to register a user withe the email that already exist
-
-422 - Unprocessable Entity
-
-201 - Created
-
-204 - No Content -> There is no content in the body of the response, usually the preflight responses get this. In these preflight requests by browsers the answer is only in the header.
-
+Impersonate a browser's CORS preflight handshake:
+```bash
 curl -s -i -X OPTIONS "https://test-nl.datahive.online/api/v2/registry-account/selct-list?book=goo&type=short&accountId=28101" \
 -H "Origin: https://bid-offer-us-uat.datahive.online/" \
 -H "Access-Control-Request-Method: GET" \
 -H "Access-Control-Request-Headers: authorization" \
 2>&1 | head -40
+```
+- `-H "Origin: ..."` — I'm a browser page loaded from this origin
+- `-H "Access-Control-Request-Method"` — if this preflight succeeds, I plan to send a GET request
+- `-H "Access-Control-Request-Headers"` — my real request will include an Authorization header
 
-This is impersonating a browser's CORS preflight handshake
--H "Origin:..." -> I am a browser page loaded from this origin
--H "Access-...-Method" -> If this preflight succeds, I plan to send a GET request
--H "Access-...-Headers" -> My real request will include an Authorizatino header
-
+Cookie-based login flow:
+```bash
 curl -c cookies.txt -X POST https://api.example.com/login \
 -H "Content-Type: application/json" \
 -d '{"email": "test@example.com", "password": "1234"}'
+```
+The server can respond with the header `Set-Cookie: session_id=abc123`.
 
-Server can send this as header: Set-Cookie: session_id=abc123
-
+```bash
 curl -b cookies.txt https://api.example.com/profile
+```
+Now curl sends the header `Cookie: session_id=abc123`.
 
-Now curl send this as header: Cookie: session_id=abc123
+## HTTP status codes
 
--c -> Cookie jar - store cookies
--b -> Send cookies - As browser does automatically
--s -> silent - Hides the progress meter and error messages
--H -> Header - Let's you add a custom HTTP header to your request.
--I -> (HEAD request) - Fetches only the HTTP response header, not the page content.
+| Code | Meaning               | Note                                                     |
+| ---- | --------------------- | -------------------------------------------------------- |
+| 201  | Created               |                                                          |
+| 204  | No Content            | body empty; typical browser preflight response (answer is in the header) |
+| 302  | Found (temp redirect) | new URL in the `Location:` header, temporary — keep using the original in future |
+| 401  | Unauthorized          | not authenticated — missing/invalid/expired token        |
+| 403  | Forbidden             | authenticated but not authorized to access the resource  |
+| 404  | Not Found             | resource doesn't exist (or the server won't reveal it)   |
+| 409  | Conflict              | e.g. registering a user with an email that already exists |
+| 422  | Unprocessable Entity  |                                                          |
 
+## docker
 
----
+- `docker ps` — list currently running containers
+- `docker exec <container> <cmd>` — run a command inside a running container
 
-find - searches a directory tree recursively for files and directories that match specified criteria (such as name, type, size, or modification time)
-
-
-find . -name ".env.example"
-find all files/directories named .env.example recursively from the current directory.
-
-find . -type d -name node_modules -prune -o -name "package.json" -print
-find . -name "package.json" -not -path "*/node_modules/*"
-filters out results inside node_modules but find still traverses those directories. The prune version is more efficient on large projects.
-
-
----
-
-docker ps
-lists the Docker containers that are currently running.
-
+```bash
 docker exec postgres psql -U list -d list -c "\dt"
-Inside the docker container `postgres`, connect to the PostgreSQL database `list` as user `list`, and print all tables.
+```
+Inside the running container `postgres`, connect to the PostgreSQL database `list` as user `list`, and print all tables. (See `psql` for the flags.)
 
-docker exec postgres ...
-run a command inside the running container named 'postgres'
+## psql — PostgreSQL command-line client
 
-psql
-PostgreSQL command-line client
+Needs a database URL (or connection flags) so it can connect to the database.
 
--U list
-connect to the database as 'user: list'
+- `-U list` — connect as user `list`
+- `-d list` — connect to database named `list`
+- `-c "\dt"` — run one SQL / meta command and exit
 
--d list
-connect to the database named list 'database: list'
-
--c "\dt"
-run a SQL meta command and exit. List all tables in the current database and exit.
-
---- 
-
-psql - PostgreSQL command-line client needs a database url so it can connect to the database
-
+```bash
 psql postgresql://list:changeme@localhost:5432/list
-connects to my local databes which is running inside a docker container, with user as list, password as changeme,
-and the DB name is list.
+```
+Connect to my local database running inside a Docker container — user `list`, password `changeme`, database `list`.
 
----
+## PostgreSQL meta commands
 
-PostgreSQL meta commands
+- `\dt` — list all tables in the current database
+- `\d items` — show the shape of the table `items` (columns, types, foreign keys, relations…)
 
-\dt
-List all tables in the current databas.
+## jq — command-line JSON processor
 
-\d items
-shows the current shape of table named items. Including all the columns, types of columns, foreign keys, relations...
+Pretty-prints JSON and extracts specific fields. Very useful when piping `curl` output.
 
---- 
-
-jq - A command-line JSON processor. It can pretty-print JSON and extract specific fields. Very useful when piping the output of `curl`.
-
+```bash
 jq ".scripts" ./package.json
-prints the scripts object in the package.json file.
+```
+Print the `scripts` object from `package.json`.
 
----
+## history — command history
 
-history - shows the history of commands that the current terminal's tab knows. So if you do reverse search then
-it looks this history file up.
+Shows the command history the current terminal tab knows. Reverse search (`Ctrl-r`) looks this history file up.
 
----
+## Ctrl-r — reverse history search
 
-ctrl + r - (reverse-i-search)`': - Also called history search - Searches backward through your command history, 
-starting with the most recent matching command. It looks up commands from the current terminal session and 
-commands saved in your ~/.bash_history file from previous sessions.
+Searches backward through your command history — current session plus commands saved in `~/.bash_history` from previous sessions — most recent match first.
 
-ctrl + r - Each press of ctrl + r will go to the next older matching command.
+- `Ctrl-r` — press again to step to the next older matching command
+- `Enter` — run the command immediately
+- `Right arrow` — copy it to the prompt so you can edit before running
+- `Ctrl-g` / `Ctrl-c` — cancel / abort the search
+- `!git` — run the last command beginning with `git`
+- `!?docker?` — run the last command containing `docker`
 
-Enter - Runs the command immediately.
+## evince — background a GUI app with &
 
-Right arrow - The command is copied onto the command line so you can edit before running.
+- `evince file.pdf` — start it and wait for it to exit (many GUI programs don't detach automatically)
+- `evince file.pdf &` — start it and return the prompt immediately
 
-ctrl + g || ctrl + c - Will cancel or aborts the reverse search.
+```
+[1] 12345
+```
+`[1]` is the job number (used by the shell), `12345` is the PID.
 
-!git - Searches for last command begining with 'git'.
-
-!?docker? - Searches for the last command containing docker.
-
----
-
-evince file.pdf
-Start evince and wiat for evince to exit. Many GUI programs don't detach automatically.
-
-evince file.pdf &
-Start evince and immediately give me my prompt back.
-Usually we see something like:
-[1] 12345 - [1] this is the job number (used by the shell) and 12345 is the PID.
-
+Other GUI apps the same way:
+```bash
 gedit notes.txt &
 firefox https://example.com &
 vlc movie.mkv &
+```
 
----
+## jobs — list shell jobs
 
-jobs - You can see list of jobs started from your current terminal.
+Lists jobs started from the current terminal.
 
+```
 [1]+ running evince file.pdf &
+```
 
-fg %1 - foreground - bring the job No.1 to the foreground.
-Now the terminal is again waiting for evince to exit and you can not run other commands.
+- `fg %1` — bring job 1 to the foreground (the terminal waits for it again; you can't run other commands)
+- `Ctrl-z` — stop (freeze) the foreground job — does NOT kill it, just stops it
+- `bg %1` — resume a stopped job and let it continue in the background
 
-Ctrl+z - stops the process - While the terminal is waiting for the GUI app (evince in this case) to exit, if you press
-ctrl+z then we stop the process ID, we DO NOT KILL the process, just STOP it. It is frozen.
+If you stop `evince` and then try to interact with its still-open PDF window, it won't respond.
 
-And then if you use 
+## kill — stop a job or process
 
-bg %1 - Resumes a stopped job and lets it continue in the background.
+- `kill %1` — stop job number 1
+- `kill 48291` — stop the process with PID 48291
 
-If we stopp the evince file.pdf command and in the GUI we try to interact with the pdf window which is still open then it doesnt respond.
+## date — current date and time
 
----
+An external executable program known to the shell.
 
-kill %1 - stop job number 1.
-kill 48291 - stop process with the PID 48291.
+- `date` — print the current date and time
+- `date +%F` — print `YYYY-MM-DD` (`%F` is shorthand for `%Y-%m-%d`)
 
----
+## which — show the path of an external command
 
-date - Prints the current date and time. It's an external executable program which is know by shell.
+Bash has built-in commands (`cd`, `echo`, `pwd`) and also runs external programs found in the directories listed in your `PATH`.
 
-date +%F - Prints the date in this format YYYY-MM-DD - %F is a shortcut for %Y-%m-%d
+- `cd` — bash built-in
+- `date` — external → `/usr/bin/date`
+- `ls` — external → `/usr/bin/ls`
+- `grep` — external → `/usr/bin/grep`
 
---- 
+## Regular expressions
 
-which - shows where is ???
-
-Bash itself provides built-in commands (like cd, echo, pwd), but it can also run external programs found in directories listed in your PATH.
-
-cd -> bash built in
-date -> external program -> /usr/bin/date
-ls -> external program -> /usr/bin/ls
-grep -> external program -> /usr/bin/grep
-
----
-
-Regular Expressions
-
+```
 /^(\d{2})-(\d{2})-(\d{4})$/
+```
 
-^ - Begining of the match - This ensures that the match starts immediately at the first charactar.
+- `^` — beginning of the match; ensures it starts at the first character
+- `\d` — any digit (0-9)
+- `{2}` — exactly 2 times
+- `()` — capturing group; lets you extract parts of the match
 
-\d - Any digit (0-9)
-
-{2} - Exactly 2 times
-
-() - Creates capturing group and it lets you extract parts of the match.
-fullDatePattern = /^(\d{2})-(\d{2})-(\d{4})$/
+```js
+const fullDatePattern = /^(\d{2})-(\d{2})-(\d{4})$/
 const [entireMatch, day, month, year] = "15-07-2026".match(fullDatePattern)
-enitireMatch -> "15-07-2026"
-day -> "15"
-month -> "07"
-year -> "2026"
+// entireMatch -> "15-07-2026"
+// day          -> "15"
+// month        -> "07"
+// year         -> "2026"
+```
 
-/^(\d{2})-(\d{2})-(\d{4})T(\d{2}):(2)$/ - Matches teh full date time pattern
+```
+/^(\d{2})-(\d{2})-(\d{4})T(\d{2}):(2)$/
+```
+Matches the full date-time pattern.
 
---- 
+## xdg-open / open — open a file with the default app
 
-xdg-open fileName.suffix - xdg stands for Cross-Desktop Group - Opens the file, URL or directory with the default application.
+- `xdg-open fileName.suffix` — Linux; xdg = Cross-Desktop Group. Opens the file, URL, or directory with the default application.
+- `open fileName.suffix` — same thing on macOS.
 
-open fileNmae.suffix - It's the same command but in MacOS.
+## head — print the first lines of a file
 
----
+- `head -n <N> <file>` — display the first N lines of the file
 
-head -n fileName - Displays the first n line of the file
+## dig — Domain Information Groper
 
----
+Query DNS servers. Mainly used to troubleshoot DNS issues.
 
-dig (Domain Information Groper) - is used to query DNS servers. It is mainly used to troubleshoot DNS issues.
+## lsof — list open files
 
----
-
-# lsof 
-list open files
-
-## lsof /etc/passwd
-show me all the processes that have this file open.
-
-## lsof -p 3806
-show me all the open file descriptors of this process.
-
-## lsof -i
-show me all the open file descriptors that are internet sockets. (TCP & UDP)
-
-## lsof -iTCP
-show me only TCP sockets.
-
-## lsof -iUDP
-show me only UDP sockets
-
-## lsof -iTCP -sTCP:LISTEN
-show me only TCP listening sockets.
-
-## lsof -iTCP -sTCP:ESTABLISHED
-show me only TCP established connections.
-
-
-
-
+- `lsof /etc/passwd` — all processes that have this file open
+- `lsof -p 3806` — all open file descriptors of this process
+- `lsof -i` — open file descriptors that are internet sockets (TCP & UDP)
+- `lsof -iTCP` — only TCP sockets
+- `lsof -iUDP` — only UDP sockets
+- `lsof -iTCP -sTCP:LISTEN` — only TCP listening sockets
+- `lsof -iTCP -sTCP:ESTABLISHED` — only TCP established connections
