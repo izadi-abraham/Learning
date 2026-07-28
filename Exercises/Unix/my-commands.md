@@ -316,5 +316,30 @@ dig (Domain Information Groper) - is used to query DNS servers. It is mainly use
 
 ---
 
+# lsof 
+list open files
+
+## lsof /etc/passwd
+show me all the processes that have this file open.
+
+## lsof -p 3806
+show me all the open file descriptors of this process.
+
+## lsof -i
+show me all the open file descriptors that are internet sockets. (TCP & UDP)
+
+## lsof -iTCP
+show me only TCP sockets.
+
+## lsof -iUDP
+show me only UDP sockets
+
+## lsof -iTCP -sTCP:LISTEN
+show me only TCP listening sockets.
+
+## lsof -iTCP -sTCP:ESTABLISHED
+show me only TCP established connections.
+
+
 
 
