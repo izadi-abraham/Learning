@@ -9928,5 +9928,33 @@ Wil je de taart preofen?
 Wil je de taart proeven?
 Is dat genoeg slagroom?
  
---- 
+--- Dag 853
 
+Suiker is zoet.
+Het meisje eet een zoete apple.
+Het meisje eet een zoete appel.
+De citroen is zuur.
+De citroen is zuur.
+Sommige appel zijn zuur.
+Sommige appels zijn zuur.
+Sonep is niet hartig.
+Snoep is niet hartig.
+Ik vind deze soep niet so pitig.
+Ik vind deze soep niet zo pittig.
+Ik vind deze soep niet zo pittig.
+Vanavond eten we een hartige taart.
+Deze groent smaakt een beetje pittig.
+Deze groent smaakt een beetje bitter.
+Deze groente smaakt een beetje bitter.
+Kinderen houden meest aan niet van bitter dingen.
+Kinderen houden meestal nit van bitter dingen.
+Kinderen houden meestal niet van bitter dingen.
+Kinderen houden meestal niet van bitter dingen.
+Is dit zoet of hartig?
+De citroen is zuur.
+Zuure melk is niet goed.
+Zure melk is niet goed.
+Deze .... is te pittig voor mijn oma.
+Deze maaltijd is te pittig voor mijn oma.
+
+--- 
