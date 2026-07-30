@@ -9957,4 +9957,34 @@ Zure melk is niet goed.
 Deze .... is te pittig voor mijn oma.
 Deze maaltijd is te pittig voor mijn oma.
 
+--- Dag 854
+
+We nemen twee peeren.
+We nemen twee peren.
+De noot is zuit.
+De noot is zout.
+De noot is zout.
+Wat voor noot hebben jullie?
+Wat voor noten hebben jullie?
+Wat voor noten hebben jullie?
+Het rijpe fruit is zoet.
+De kers is rod en zoet.
+We eten de kersen zodra ze rijp zijn.
+We eten de kersen zodra ze rijp zijn.
+Is een kersen bess?
+Is een kersen bes?
+Is een kers een bes?
+De bessen zijn niet lekker wants ze zijn zuur.
+De bessen zin niet lekker, wants ze zijn zuur.
+De bessen zijn niet lekker, want ze zijn zuur.
+De druif is vers.
+Ik kook rijst met nooten.
+Ik kook rijst met noten.
+Ik kook rijst met noten.
+Wat voor hebben noot jullie?
+Wat voor noot hebben jullie?
+Wat voor noten hebben jullie?
+De druiven zijn naast de appels.
+De druiven liggen naast de appels.
+
 --- 
