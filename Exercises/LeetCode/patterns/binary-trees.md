@@ -35,8 +35,6 @@ It's a degenerate binary tree that is either dominated by the left nodes the rig
 
 All the levels are completely filled except possibly the last level, and the last level
 is filled from the left side.
-A complete binary tree is a full binary tree but all the leaf nodes must lean toward left.
-
 
 ### Perfect Binary Tree
 
@@ -46,7 +44,7 @@ Internal nodes are those which are not leaf nodes.
 
 ### Balanced Binary Tree
 
-If the height of the tree is O(log n) where n is number of nodes.
+The height of the tree grows proportionaly to "log n"
 For example, the AVL tree maintains O(log n) height by making sure that the difference between the
 heights of the left and right subtrees of every node is at most 1.
 
