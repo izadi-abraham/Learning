@@ -294,3 +294,12 @@ Query DNS servers. Mainly used to troubleshoot DNS issues.
 - `lsof -iUDP` — only UDP sockets
 - `lsof -iTCP -sTCP:LISTEN` — only TCP listening sockets
 - `lsof -iTCP -sTCP:ESTABLISHED` — only TCP established connections
+
+## ls - lists the contents of a directory
+
+- `-l` - long listing format (permissions, owner, size, date, etc.)
+- `-h` - Human-readable file sizes(e.g. `4.2k`, `15M`, `2.1G`)
+- `-t` - Sort by modification time (Newest first by default)
+- `-r` - Reverse the sort order (Oldest first when combining with `-t`)
+
+
