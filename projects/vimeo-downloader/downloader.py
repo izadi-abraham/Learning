@@ -4,11 +4,9 @@ import base64
 import json
 from pathlib import Path
 from urllib.parse import urljoin
-
 import requests
+import sys
 
-
-PLAYLIST = Path("playlist-from-curl.json")
 
 # This is the URL you used with curl.
 PLAYLIST_URL = (
@@ -16,8 +14,8 @@ PLAYLIST_URL = (
 )
 
 
-def load_manifest():
-    with PLAYLIST.open() as f:
+def load_manifest(path):
+    with path.open() as f:
         return json.load(f)
 
 
@@ -69,25 +67,32 @@ def append_segment(path, data):
 
 
 def main():
-    manifest = load_manifest()
+
+    if len(sys.argv) != 2:
+        print(f"Usage: {sys.argv[0]} <playslist.json>")
+        sys.exit(1)
+
+    playlist = Path(sys.argv[1])
+
+    manifest = load_manifest(playlist)
 
     base = build_base_url(manifest["base_url"])
 
 
-    video = choose_best_video(manifest)
+   # video = choose_best_video(manifest)
     audio = choose_best_audio(manifest)
 
-    print(
-        f'Video: {video["width"]}x{video["height"]}'
-        f'({len(video["segments"])} segments)'
-    )
+   # print(
+    #    f'Video: {video["width"]}x{video["height"]}'
+    #    f'({len(video["segments"])} segments)'
+    #)
 
     print(
         f'Audio: {audio["bitrate"]} bps'
         f'({len(audio["segments"])} segments)'
     )
 
-    #download_track(video, "video.fmp4", base)
+#    download_track(video, "video.fmp4", base)
     download_track(audio, "audio.fmp4", base)
 
 
