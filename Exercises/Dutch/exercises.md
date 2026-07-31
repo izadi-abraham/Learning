@@ -9987,4 +9987,26 @@ Wat voor noten hebben jullie?
 De druiven zijn naast de appels.
 De druiven liggen naast de appels.
 
+--- Dag 855
+
+Laten we wortels eten?
+Laten we wortels eten.
+Waar is de bloemkol?
+Waar is de bloemkool?
+Hoeveel pabrikas heb je?
+Hoeveel pabrika's beb je?
+De pabrika's zijn groen, oranje en rood.
+Zijn champion's groente?
+Zijn champignons groente?
+Zijn champignons groente?
+De champignons komen uit Nederland.
+De champignons komen uit Nederland.
+Het is de wortel.
+We huilen van wegen de uil je.
+We huilen vanwege de uien.
+We huilen vanwege de uien.
+Een boterham met ei en ui.
+Zijn champignon's groente?
+De champignon's komen uit Nederlands.
+
 --- 
