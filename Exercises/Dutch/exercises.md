@@ -10009,4 +10009,22 @@ Een boterham met ei en ui.
 Zijn champignon's groente?
 De champignon's komen uit Nederlands.
 
+--- Dag 856
+
+De bon is bruin.
+De boon is bruin.
+Het regent spek.
+Ik wil geen gehak.
+Ik wil geen gehakt.
+Ik wil geen gehakt.
+De worst is lang.
+Heb je gehakt nodig om te worst 
+Heb je gehakt nodig om een worst te maken?
+Mijn biefstuk is zwart.
+Ik wil graag want spek met min ei.
+Ik wil graag wat spel bij mijn ei.
+Ik wil graag wat spek bij mijn ei.
+Ja, ik proef de knoflook in de salad.
+Ja, ik proef de knoflook in de salade.
+
 --- 
