@@ -10027,4 +10027,23 @@ Ik wil graag wat spek bij mijn ei.
 Ja, ik proef de knoflook in de salad.
 Ja, ik proef de knoflook in de salade.
 
+--- Dag 857
+
+Is dat genoeg slagroom?
+De champignon's komen uit Nederland.
+De champignons komen uit Nederland.
+Zijn champignons groente?
+Ja, ik proef de knoflook in de salade.
+Wat voor noten hebben jullie?
+Wij houden van pannenkoken.
+Wij houden van pannenkoeken.
+In de taart zit veel suiker en boter.
+Mag ik stukje appeltaart?
+Mag ik een stukje appeltaart?
+Koek je met boter of met olie?
+Kook je met boter of met olie?
+Ik koek rijst met noten.
+Hij wil geen noten in zijn salade.
+Ik doe knoflook in de soep.
+
 --- 
