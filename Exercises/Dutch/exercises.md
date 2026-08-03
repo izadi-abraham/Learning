@@ -10046,4 +10046,34 @@ Ik koek rijst met noten.
 Hij wil geen noten in zijn salade.
 Ik doe knoflook in de soep.
 
+--- Dag 858
+
+Ze proefen de chocolade zodra te betalen.
+Ze proeven de chocolade zodra te betalen.
+Ze proeven de chocolade, voordat ze betalen.
+De salade is groen.
+De slechte olie is niet lekker.
+Eet men pindakaas in Nederland.
+Eet men pindakaas in Nederland?
+Pardon, waarrom eet je mijn friedrank?
+Pardon, waarom drink je mijn friesdrank?
+Pardon, waarom drink je mijn frisdrank?
+De paarse frisdrank is lekker.
+Ik wil geen boter met mijn boterham.
+Ik wil geen boter op mijn boterham.
+Ik ga naar de boer ... boter en kaas te kopen.
+Ik ga naar de boerderij om boter en kaas te kopen.
+Er zitten tomaten in de salade.
+De paarse frisdrank is lekker.
+Ik gebruik minder olie terwijl kook ik.
+Ik gebruik minder olie wanneer ik kook.
+Wat voor frisdrank hebben jullie?
+We maken een lekkere salade.
+Pindakaas is geen kaas.
+Pardon, waarom drink je mijn frisdrank?
+Eet men pindakaas in Nederland?
+Kook je met olie of boter?
+Kook je met boter of met olie?
+Ik gebruik minder boter wanneer ik kook.
+
 --- 
