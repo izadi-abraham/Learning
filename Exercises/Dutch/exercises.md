@@ -10076,4 +10076,35 @@ Kook je met olie of boter?
 Kook je met boter of met olie?
 Ik gebruik minder boter wanneer ik kook.
 
+--- Dag 859
+
+We ... slaagroom op onze fruit.
+We doen slaagroom op onze fruit.
+We doen slagroom op onze fruit.
+We doen slagroom op ons fruit.
+We doen slagroom op ons fruit.
+Snoep is slecht voor je tanden volgens mijn ouders.
+Snoep is slecht voor je tanden, volgens mijn ouders.
+Je bent een pannenkoek.
+De jongens proberen snoep te stelen.
+De jongens proberen snoep te stelen.
+Hij doet slagroom op het gebaak.
+Hij doet slagroom op het gebak.
+In het taart liggen heel zuiker en boter.
+In de taart zit heel zuiker en boter.
+In de taart zit heel suiker en boter.
+Mag ik stukje appeltaart?
+Mag ik een stukje appeltaart?
+Opa wil een pannenkoek met kaas.
+Snoep is slecht voor je tanden, volgens mijn ouders.
+Het is geen echte feest zonder een taart.
+Het is geen echt feest zonder taart.
+Ze eet aardbeien met slagroom.
+Ze eet aardbeien met slagroom.
+Ik heb een grote taart met slagroom nodig.
+De jongens proberen snoep te stelen.
+De jongens proberen snoep te stelen.
+Het is geen echt feest zonder taart.
+Mag ik een stukje appeltaart?
+
 --- 
