@@ -10107,4 +10107,34 @@ De jongens proberen snoep te stelen.
 Het is geen echt feest zonder taart.
 Mag ik een stukje appeltaart?
 
+--- Dag 860
+
+De zwarte koffie is te bitter voor mij.
+Sommige appel zijn zuure.
+Sommige appel zijn zuur.
+Ik vind de soup niet zo pitig.
+Ik vind deze soup niet zo pittig.
+Ik vind deze soep niet zo pittig.
+De beer eet zuure citroen.
+De beer eet een zure citroen.
+De beer eet een zure citroen.
+De goodkope beer is zuur.
+De goodkope bier is zuur.
+De frisdrank is niet zoet genoeg.
+De frisdrank is niet zoet genoeg.
+De citroen is van mij.
+Mijn vriendin houdt van pitige eeten.
+Mijn vriendin houdt van pittig eeten.
+We leggen de zure appels onder de boom.
+Het meisje eet een zoet appel.
+Het meisje eet een zoete appel.
+Mijn vriendin houdt van pittig eten.
+De citroen is zuur.
+Zure melk is niet goed.
+Snoep is niet hartig.
+De beer eet een zuur citroen.
+De beer eet een zure citroen.
+Mijn vriendin houdt van pittig eten.
+De citroen is zuur.
+
 --- 
