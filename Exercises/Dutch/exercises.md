@@ -10137,4 +10137,36 @@ De beer eet een zure citroen.
 Mijn vriendin houdt van pittig eten.
 De citroen is zuur.
 
+--- Dag 861
+
+Wite of rode druiven?
+Witte of rode druiven?
+De vogels eten alle kersen.
+Is een kers een bers?
+Is een kers een bes?
+Is een kers een bes?
+Wij nemen twee ....
+We nemen twee peren.
+We nemen twee peren.
+De druif is vers.
+De druif is vers.
+Meneer beer eet een peer.
+Zwarte beren eten veel bers.
+Zwarte beren eten veel bessen.
+Ik kook rijst met noten.
+De groene tomat is niet rijp.
+De groene tomaat is niet rijp.
+Wanneer zijn de aardbeien rijp?
+Meneer beer eet een peer.
+Ik wil alleen rijpe peren.
+Ik wil maar rijpe peren.
+Ik wil alleen rijpe peren.
+De rijpe fruit is zoet.
+Het rijpe fruit is zoet.
+Men maken wijn van druiven.
+Men maakt wijn van druiven.
+Ik wil alleen rijpe peren.
+Het rijpe fruit is zoet.
+Men maakt wijn van druiven.
+
 --- 
