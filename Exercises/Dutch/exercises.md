@@ -10169,4 +10169,37 @@ Ik wil alleen rijpe peren.
 Het rijpe fruit is zoet.
 Men maakt wijn van druiven.
 
---- 
+--- Dag 862
+
+Waar is de kool?
+Waar is de bloemkool?
+Hij wil een pannenkoek zonder ui.
+Hij wil een pannenkoek zonder ei.
+Hij wil een pannenkoek zonder ui.
+Het is de wortel.
+Wortels zijn meestal oranje.
+Wortels zijn meestal oranje.
+Vandaag eten we bloemkool met kaas.
+Laten we eten wortels.
+Laten we wortels eten.
+De pabrikas zijn groen, oranje en rood.
+De pabrika's zijn groen, oranje en rood.
+De paprika's zijn groen, oranje en rood.
+Ik heb fijv en twentig potaten geboilen.
+Ik heb fijventwintig .... gekookd.
+Ik heb vijfentwintig ..... gekookt.
+Ik heb vijfentwintig aardappelen gekookt.
+Hoeveel pabrika's heb je?
+Hoeveel paprika's heb je?
+Ik heb vijfentwintig aardappelen gekookt.
+Ik houd niet van bloemkool's wat ze zijn niet lekker.
+Ik houd niet van bloemkook want het is niet lekker.
+Waar is de bloemkool?
+Nee, we hebben geen champigons.
+Nee, we hebben geen champignons.
+Een boterham met ei en ui.
+De kleur van de paprika is niet belangrijk.
+Het is de wortel.
+Ik heb vijfentwintig aardappelen gekookt.
+
+---
