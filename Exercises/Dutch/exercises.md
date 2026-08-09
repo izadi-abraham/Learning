@@ -10202,4 +10202,33 @@ De kleur van de paprika is niet belangrijk.
 Het is de wortel.
 Ik heb vijfentwintig aardappelen gekookt.
 
+--- Dag 863
+
+De boon is bruin.
+De manen eten kaas en worst.
+De mannen eten kaas en worst.
+Haar hond eet mijn biefstuck.
+Haar hond eet mijn biefstuk.
+Ik doe knoflook in de soep.
+De salate ..... als knoflook.
+De salade smaakt naar knoflook.
+Heb je gehaakd nodig om een worst te maken?
+Heb je gahakt nodig om een worst te maken?
+Meneer ....., graag je eten knoflook?
+Meneer Dracula, eet u graag knoflook?
+Menner Dracula, eet u graag knoflook?
+De vrouw wil graag aardappelen bij de biefstuk.
+De vrouw wil graag aardappelen bij haar biefstuk.
+Ik wil geen gehakt.
+Ik wil geen gehakt.
+Eet jij graag spek?
+De knoflook is lekker.
+Ik wil geen gehakt.
+Waarom eten ze witten bonen als ontbijt?
+Waarom eten ze witte bonen als ontbijt?
+Ik doe knoflook in de soep.
+De salade smaakt naar knoflook.
+Heb je gehakt nodig om een worst te maken?
+
 ---
+
