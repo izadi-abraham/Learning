@@ -10230,5 +10230,27 @@ Ik doe knoflook in de soep.
 De salade smaakt naar knoflook.
 Heb je gehakt nodig om een worst te maken?
 
+--- Dag 864
+
+Ik gebruik minder olie terwile kook ik.
+Ik gebruik minder olie wanneer ik kook.
+Het is de wortel.
+Het is de wortel.
+De beer eet een zuure citroen.
+De beer eet een zure citroen.
+Ik heb vijfentwintig aardappelen ge....
+Ik heb vijfentwintig aardappelen gekookt.
+Ik wil alleen rijpe peren.
+Ik wil alleen rijpe peren.
+Men maakt wijn van druiven.
+Mag ik stukje appeltaart?
+Mag ik een stukje appeltaart?
+Wat noten heb jij?
+Wat voor noten hebben jullie?
+Wij houden van pannenkoeken.
+Wat voor noten hebben jullie?
+Hij wil geen noten in zijn salade.
+Ik wil geen boter op mijn boterham.
+
 ---
 
