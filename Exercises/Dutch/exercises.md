@@ -10252,5 +10252,27 @@ Wat voor noten hebben jullie?
 Hij wil geen noten in zijn salade.
 Ik wil geen boter op mijn boterham.
 
+--- Dag 865
+
+Als daar jij blijft, dan komen wij naar jij toe.
+Als jij daar blijft, dan komen wij naar je toe.
+Veel parfumes ruiken helemaal niet lekker.
+Veel parfums ruiken helemaal niet lekker.
+Hij is de baas van onze aafdeling.
+Hij is de baas van onze afdeling.
+Hij is de baas van onze afdeling.
+Ik loop laangzam naar hem toe.
+Huid je van de geur van koffie?
+Het is de geur van een nieuwe auto.
+De geur is te sterk van mij.
+De geur is te sterk voor mij.
+De olifant bekijkt de muis.
+Ik wil je een fijne avond wensen.
+De ..... komen uit een leege gebouw.
+De geluiden komen uit een lege gebouw.
+De geluiden komen uit het lege gebouw.
+Houd je van de geur van koffie?
+
 ---
+
 
