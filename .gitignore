@@ -20,5 +20,7 @@ __pycache__/
 
 
 # vimeo-downloader app specific
-projects/vimeo-downloader/playlist.json
+Projects/vimeo-downloader/playlist.json
 
+# node.js
+node_modules/

@@ -10273,6 +10273,29 @@ De geluiden komen uit een lege gebouw.
 De geluiden komen uit het lege gebouw.
 Houd je van de geur van koffie?
 
----
+--- Dag 866
 
+Eet smakelijk.
+Eet smakelijk en fijne avond.
+Het is te donker zonder lampen.
+Het is te donker zonder lampen.
+Er staat iemand achter de muur.
+Mijn kussen is niet zacht genoeg.
+Mijn kussen is niet zacht genoeg.
+Ze heeft een lekker sope voor ons gemakt.
+Ze heeft een lekkere soep voor ons gemaakt.
+Ze heeft een lekkere groentsoep voor ons gemaakt.
+Ze heeft een lekkere groentesoep voor ons gemaakt.
+Het is een muur.
+De muur is blauw.
+Ik wens jou veel success.
+Ik wens jou veel succes.
+Ik wens jou veel succes.
+Ik wens jullie veel succes.
+Elke zondagochtend, drink ik vers sinaasappelsap.
+Elke zondagochtend drink ik vers sinaasappelsap.
+Ik wens jou veel succes.
+Ik wens jullie veel succes.
+
+--- 
 

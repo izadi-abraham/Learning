@@ -10,7 +10,7 @@ import sys
 
 # This is the URL you used with curl.
 PLAYLIST_URL = (
-    "https://vod-adaptive-ak.vimeocdn.com/exp=1786113100~acl=%2F3e057752-8fec-41db-b24c-070cb8208fe8%2Fpsid%3D2c98bc036030ac2c8a487a9cfe7b5893b3b66a4e1786093752%2F%2A~hmac=26dcfeb9979645d5ce88b8709ad438d92525ed1bc1a37ae1de20899e1cfe95ca/3e057752-8fec-41db-b24c-070cb8208fe8/psid=2c98bc036030ac2c8a487a9cfe7b5893b3b66a4e1786093752/v2/playlist/av/primary/prot/cXNyPTE/playlist.json?omit=av1-hevc&pathsig=8c953e4f~TsWnofvSuuek9uP-iIlaZyx0JggYG_RYuPoiD-JHKKo&qsr=1&r=dXM=&rh=3QTUVV"
+    "https://skyfire.vimeocdn.com/1786481027-0x62444678e5dbee2217d0744f4473f4875eaf6252/eb6d3e78-7429-4c0d-86d9-171c65807433/psid=3388c11e76264af29c611af1f53bf2e09e9037141786460847/v2/playlist/av/primary/prot/cXNyPTE/playlist.json?omit=av1-hevc&pathsig=8c953e4f~G7X5kZVMJmHPOebFAPxZsq0PxIICQjrZ-fmsVSVL-IY&qsr=1&r=dXM=&rh=2L60Ox"
 )
 
 
@@ -79,20 +79,20 @@ def main():
     base = build_base_url(manifest["base_url"])
 
 
-#    video = choose_best_video(manifest)
+    video = choose_best_video(manifest)
     audio = choose_best_audio(manifest)
 
-#    print(
-#        f'Video: {video["width"]}x{video["height"]}'
-#        f'({len(video["segments"])} segments)'
-#    )
+    print(
+        f'Video: {video["width"]}x{video["height"]}'
+        f'({len(video["segments"])} segments)'
+    )
 
     print(
         f'Audio: {audio["bitrate"]} bps'
         f'({len(audio["segments"])} segments)'
     )
 
- #   download_track(video, "video.fmp4", base)
+    download_track(video, "video.fmp4", base)
     download_track(audio, "audio.fmp4", base)
 
 
