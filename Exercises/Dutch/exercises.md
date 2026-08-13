@@ -10297,5 +10297,30 @@ Elke zondagochtend drink ik vers sinaasappelsap.
 Ik wens jou veel succes.
 Ik wens jullie veel succes.
 
---- 
+--- Dag 867
+
+Waar is jullie badkamer?
+Hoelaat houd het feest op?
+Hoe laat houdt het feest op?
+Hoe laat houdt het feest op?
+Het zit een een in de laden.
+Het zit in een van de laden.
+Het zit in een van de laden.
+Dat is een handboek van nieuwe werknemers.
+Dat is een handboek voor nieuwe werknamers.
+Dat is een handboek voor nieuwe werknemers.
+Wat doen ze in de slapkamer?
+Wat doen ze in de slaapkamer?
+We zoeken de slaapkamer.
+Jouw slaapkamer heeft twee twee grote ramen.
+Jouw slaapkamer heeft twee grote ramen.
+Waarom is er geen spiegel in de badkamer?
+Ik kijk in de spiegel.
+Hoeveel keer per dag kijk je in de spiegel?
+Ik loop.
+Ik ben aan het lopen.
+Ben jij aan het schrijven?
+Waarom is er geen spiegel in de badkamer?
+
+---
 
