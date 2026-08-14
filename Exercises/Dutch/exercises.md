@@ -10322,5 +10322,33 @@ Ik ben aan het lopen.
 Ben jij aan het schrijven?
 Waarom is er geen spiegel in de badkamer?
 
----
+--- Dag 868
+
+Wij houden van pannenkoeken.
+Ze eet aardbeien met slagroom.
+Het is geen echt feest zonder taart.
+Opa wil een pannenkoek met kaas.
+De jongens proberen snoep te stelen.
+Er zit tomaten in de salade.
+Er zitten tomaten in de salade.
+De jongens ziet het warme gebaak.
+De jongens ziet het warme gebak.
+Kook je met boter of de olie?
+Kook je met boter of met olie?
+De meisjes gaan heen doors koekens te kopen.
+De meisjes gaan 
+De meisjes gaan deur 
+De meisjes gaan van deur tot deur om koekens te verkopen.
+De meisjes gaan van deur tot deur om koekjes te verkopen.
+Pardom, waarom drink je mijn friesdrank?
+Pardon, waarom drink je mijn frisdrank?
+Een boterham met pindakaas.
+Het koekje zit vol met chocolade.
+Het koekje zit vol met chocolade.
+Wij houden van pannenkoeken.
+Opa wil pannenkoek met kaas.
+Opa wil een pannenkoek met kaas.
+Het koekje zit vol met chocolade.
+
+--- 
 
