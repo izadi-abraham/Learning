@@ -10350,5 +10350,40 @@ Opa wil pannenkoek met kaas.
 Opa wil een pannenkoek met kaas.
 Het koekje zit vol met chocolade.
 
---- 
+--- Dag 869
 
+Snoep is niet lekker.
+Snoep is niet hartig.
+Snoep is niet hartig.
+Ik heb een aardbei en een citroen.
+Ik heb een aardbei en een citroen.
+Witte of rode druiven?
+Is dit soep zo hartig?
+Is dit zoet of hartig?
+Is dit zoet of hartig?
+Zwarte beren eten veel besen.
+Zwarte beren eten veel bessen.
+Zwarte beren eten veel bessen.
+We nemen twee peren.
+We eten kersen zodra ze zijn rijp.
+We eten kersen ....... ze rijp zijn.
+We eten kersen zodra ze rijp zijn.
+We eten de kersen zodra ze rijp zijn.
+We eten de kersen zodra ze rijp zijn.
+Hij wil geen noten in zijn salade.
+De parse ..... smaakt ineresant.
+De parse bes smaakt inresant.
+De parse bes smaakt interessant.
+Da paarse bes smaakt interessant.
+De paarse bes smaakt interessant.
+Deze groente smaakt een beetje bitter.
+Ze eet tien zoete aardbeien.
+De kers is rood en zoet.
+De druif is vers.
+Zure melk is niet goed.
+Vanavond eten we een hartige taart.
+Vanavond eten we een hartige taart.
+Snoep is niet hartig.
+Deze groente smaakt een beetje bitter.
+
+--- 
