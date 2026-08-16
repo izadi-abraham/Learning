@@ -10386,4 +10386,39 @@ Vanavond eten we een hartige taart.
 Snoep is niet hartig.
 Deze groente smaakt een beetje bitter.
 
---- 
+--- Dag 870
+
+Het is de wortel.
+Wortel zijn meestal oranje.
+Wortels zijn meestal oranje.
+De champiogn
+De champignons komen uit Nederland.
+Waar is de bloomkoel?
+Waar is de bloemkool?
+De pabrika's zijn groen, oranje en rood.
+De paprika's zijn groen, oranje en rood.
+Wie heeft die uien gedoe
+Wie heeft die uien hier neergezet?
+Wie heeft die uien hier neergezet?
+Hij wil een pannenkoel zonder ui.
+Hij wil een pannenkoek zonder ui.
+Meneer, eet jij een aardappel?
+Meneer, eet u een aardappel?
+De kleur van paprika is niet belangrijk.
+De kleur van de paprika is niet belangrijk.
+Ik heb vijfentwintig aardappels gekookt.
+Ik heb vijfentwintig aardappelen gekookt.
+Er zit een aardappel op mijn boerd.
+Er zit een aardappel op mijn bord.
+Op mijn bord zit een aardappel.
+Op mijn bord ligt een aardappel.
+Wie heeft die uien hier neergezet?
+Wie heeft die uiten hier neergezet?
+Het is de wortel.
+De champignons komen uit Nederland.
+Waar is de bloemkool?
+De paprika's zijn groen, oranje en rood.
+De kleur van de paprika is niet belangrijk.
+
+---
+
