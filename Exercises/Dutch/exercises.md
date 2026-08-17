@@ -10420,5 +10420,26 @@ Waar is de bloemkool?
 De paprika's zijn groen, oranje en rood.
 De kleur van de paprika is niet belangrijk.
 
----
+--- Dag 871
+
+Ik wil geen boter op mijn boterham.
+We nemen twee peren.
+De kers is rood en zoet.
+Je bent een pannenkoek.
+Ja, ik proef de knoflook in de salade.
+Is een kers een bes?
+Het is niet een echt fees zonder taart.
+Het is geen echt feest zonder taart.
+Eet jij graag spek?
+De mannen eten kaas en worst.
+Meneer, eet u een aardappel?
+Meneer, eet u een aardappel?
+Snoep is niet hartig.
+Nee, je mag heb alleen een koekje.
+Nee, je mag maar een koekje.
+De zwarte koffie is te bitter voor mij.
+Is dat genoeg slagroom?
+De mannen eten kaas en worst.
+
+--- Dag 872 - Unit 3 - Section 23 - Talk about small things
 
