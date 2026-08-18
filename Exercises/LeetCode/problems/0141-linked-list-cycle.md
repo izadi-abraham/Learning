@@ -1,6 +1,6 @@
 # Linked List Cycle
 
-Pattern: | Difficulty: Easy | Date: 2026-08-04
+Pattern: Floyd's Tortoise and Hare (fast and slow pointers) | Difficulty: Easy | Date: 2026-08-04
 
 ## The problem in my own words
 - We are given the head of a linked list. We need to figure out if there is a cycle or not.
@@ -36,7 +36,7 @@ but I can not understand if I am cycling around my list.
  and it's not the same one I already visited?"
 - Maybe if it's next value is also the same as the one which existed :thinking
 - We can save the node itslef in a set, and then compare if we already had visited the node by `set.has()`
-
+- What I misunderstood is that the `pos` is accessible but in fact, my code will never see `pos`.
 
 
 ## First idea
@@ -55,7 +55,7 @@ function hasCycle(head: ListNode | null): boolean {
         return false
     }
 
-    while(head?.next !== null) {
+    while(head) {
 
         if (listMembers.has(head)) {
             return true
@@ -73,9 +73,33 @@ function hasCycle(head: ListNode | null): boolean {
 Time / Space complexity:
 
 ## 2nd Version
-
+- The Set idea seems to work but we can think of an improved version.
+- Space complexity is O(n) in this solution but the question is:
+Can you solve this in O(1) extra space?
+- We want to use slow and fast pointers algorithm here
+- This version worked as expected with the O(1) extra space but I need to trace an example to comprehend the algorithm.
 
 ```ts
+function hasCycle(head: ListNode | null): boolean {
+    let fast = head
+
+    if(!head || !head.next) {
+        return false
+    }
+    
+
+
+    while(head) {
+        head = head.next
+        fast = fast?.next?.next
+
+        if(head === fast){
+            return true
+        }
+    }
+
+    return false;
+};
 
 ```
 
