@@ -303,3 +303,8 @@ Query DNS servers. Mainly used to troubleshoot DNS issues.
 - `-r` - Reverse the sort order (Oldest first when combining with `-t`)
 
 
+## git - git version control related commands
+
+- `git remote -v` shows you the remotes of the current git repository. `-v` stands for `verbose`. Without `-v` it only shows the name of the remote, like "origin"
+- `git remote set-url origin <the url to the origin like git@github.com:github-account/repo-name.git>` sets the remote url for the current repository.
+
