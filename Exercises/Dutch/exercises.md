@@ -10443,3 +10443,43 @@ De mannen eten kaas en worst.
 
 --- Dag 872 - Unit 3 - Section 23 - Talk about small things
 
+Het huisje is oud.
+Wij hebben een huisje on de kust.
+Wij hebben een huisje aan de kust.
+Wij hebben een huisje aan de kust.
+Ik zoek een lampje.
+Do jij het lampje uit?
+Do jij het lampje uit?
+Doe jij het lampje uit?
+Ik draag een mandje.
+Ik draag een mandje.
+Het briefje is voor haar.
+Het briefje is voor haar.
+De hond en de kat slappen samen in de mandje.
+De hond en de kat slapen samen in een mandje.
+Zijn geef hem altijd briefje's.
+Zij geef hem altijd briefje's.
+Zij geeft hem altijd briefjes.
+Did kusjes altijd sl
+Dit kaasje is altijd 
+Dit kastje zit altijd op slot.
+Dit kastje zit altijd op slot.
+De kastje in de koeken zijn nog leeg.
+Da kastjes in de kuken zijn nog leeg.
+De kastjes in de keuken zijn nog leeg.
+Ik wil je in een doosje stopen.
+Ik wil je in een doosje stoppen.
+IN het mandje zit een paar appels.
+In het mandje zit er een paar appels.
+In het mandje zitten een paar appels.
+Je hebt een doosje aardbeien bij je.
+Er ligt een briefje op de tafel.
+De huisje is oud.
+Het huisje is oud.
+Je hebt een doosje aardbeien bij je.
+Er ligt een kastje naast mijn bed met een lampje op het.
+Er staat een kastje naast mijn be met een lampje erop.
+Er staat een kastje naast mijn bed met een lampje erop.
+
+--- 
+
