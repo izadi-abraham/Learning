@@ -79,9 +79,12 @@ Show only the PID and command of the matching processes.
 
 - `ipconfig getifaddr en0` — show your Wi-Fi IP address (en0 is usually Wi-Fi)
 
+
 ## ssh — secure shell
 
-> TODO: add notes and examples.
+- `ssh abraham@192.168.1.134` - Connect to this machine and give me an interactive terminal
+- `ssh -T github-personal` - Connnect and authenticate me but don't give me an interactive terminal
+
 
 ## rsync — sync directories and files over the network
 
