@@ -10481,5 +10481,50 @@ Er ligt een kastje naast mijn bed met een lampje op het.
 Er staat een kastje naast mijn be met een lampje erop.
 Er staat een kastje naast mijn bed met een lampje erop.
 
---- 
+--- Dag 873
 
+De blaadjes worden nieuw 
+De blaadjes worden nu al roots.
+De blaadjes worden nu al roods.
+De blaadjes worden nu al rood.
+De blaadjes worden nu al rood.
+Hij doet het raamp je 
+Hij doet het rampje open.
+Hij doet het raampje open.
+Wat een raar mannetje is dat.
+Wat een raat mannetje is dat.
+Wat een raar mannetje is dat.
+Ik kijk uit het raamp ..... naar onder de autos.
+Ik kijk uit het raampje naar de andere auto's.
+Ik kijk uit het raampje naar de andere auto's.
+Ik kijk uit het raampje naar de andere auto's.
+De rode vogels is een mannentje.
+De rode vogels is een mannentje.
+De rode vogel is een mannentje.
+Ze is boos op haar broodjes.
+Ze is boos op haar broertjes.
+Ze is boos op haar broertjes.
+Je mag de kamer van je zusje niet in.
+Je krijgt een klein broertje.
+Je krijgt een klein broertje.
+Ik wil graag een zusje voor mijn verjaardag.
+Ik wil graag een zusje voor mijn verjaardag.
+Het oude vrouwtje zit een roelstoel.
+Het oude vrouwtje zit een rolstoel.
+Het oude vrouwtje zit in een rolstoel.
+De blaadjes zijn groen, niet rood.
+De blaadjes zijn groen, niet rood.
+Is het konijn een mannentje of een vrouwtje?
+Is het konijn een mannentje of een vrouwtje?
+Mijn broertje is nog een kind.
+Mijn zustje wil bij het raamptje zitten.
+Mijn zusje wil bij het raampje zitten.
+Bij deze dieren zijn de vrouwtjes baas.
+Bij deze dieren zijn de vrouwtjes de baas.
+In de herfst fallen de blaadjes van de boomen.
+In de herfst vallen de blaadjes van de boomen.
+In de herfst vallen de blaadjes van de bomen.
+De blaadjes worden nu al rood.
+Het oude vrouwtje zit in een rolstoel.
+
+--- 
