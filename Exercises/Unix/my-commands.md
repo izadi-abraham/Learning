@@ -83,7 +83,7 @@ Show only the PID and command of the matching processes.
 ## ssh — secure shell
 
 - `ssh abraham@192.168.1.134` - Connect to this machine and give me an interactive terminal
-- `ssh -T github-personal` - Connnect and authenticate me but don't give me an interactive terminal
+- `ssh -T github-personal` - Connnect and authenticate me but don't give me an interactive terminal - T means Do not allocate a TTY (terminal) - TTY comes from teletypewriter, the historical name for a terminal device.
 
 
 ## rsync — sync directories and files over the network
@@ -310,4 +310,6 @@ Query DNS servers. Mainly used to troubleshoot DNS issues.
 
 - `git remote -v` shows you the remotes of the current git repository. `-v` stands for `verbose`. Without `-v` it only shows the name of the remote, like "origin"
 - `git remote set-url origin <the url to the origin like git@github.com:github-account/repo-name.git>` sets the remote url for the current repository.
+- `git tag --sort=creatordate | tail -5` Shows the 5 most recent tags created
+- `git tag -a 18.9.0 -m "The tag annotation that wil stick into the git history"` - Will add a new annotated tag to the current branch - git push origin 18.9.0 => will trigger the release
 
