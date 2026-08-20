@@ -10527,4 +10527,50 @@ In de herfst vallen de blaadjes van de bomen.
 De blaadjes worden nu al rood.
 Het oude vrouwtje zit in een rolstoel.
 
+--- Dag 874
+
+Ik eet een eitje.
+Ik eet een eitje.
+Ik drink een kopje tee.
+Ik drink een kopje thee.
+De kook kookt een eitje.
+De kok kookt een eitje.
+De kok kookt een eitje.
+Het jongetje draagt een kloepje.
+Het jongetje draagt klompen.
+Ik wil graag een glasje water.
+Ik wil graag een glaasje water.
+Dat is geen mannentje, dat is een jongetje.
+Dat is geen mannetje, dat is een jongetje.
+Het kind drinkt een glaasje sap.
+Het kind drinkt een glaasje sap.
+Het meisje speelt met de auto ...
+Het meisje speelt met de autootjes.
+Het meisje speelt met de autootjes.
+De passen allemal in het autootje van mijn opa.
+We passen allemal in het autootje van mijn opa.
+We passen allemaal in het autootje van mijn opa.
+We passen allemaal in het autootje van mijn opa.
+Dit boontje is daar niet sterk genoeg voor.
+Dit boompje is daar niet sterk genoeg voor.
+Dit boompje is daar niet sterk genoeg voor.
+Map ik nog een koopje koffie.
+Mag ik nog een kopje koffie?
+Mag ik nog een kopje koffie?
+De nieuwe boom opstaan allemaal op en rij.
+De nieuwe boompje staan allemaal op een rij.
+De nieuwe boompjes staan allemaal op en rij.
+De nieuwe boompjes staan allemaal op en rij.
+De secretares drinkt al vijf kopjes koffie.
+De secretares drinkt vijf kopjes koffie.
+De secretaris drinkt vijf kopjes koffie.
+Dat is een eitje.
+Het jongetje lijkt op zijn vader.
+Het jongetje lijkt op zijn vader.
+Waarom doet hij zuit in zijn kopje koffie?
+Waarom dot hij zuit in zijn kopje koffie?
+Waarom doet hij zout in zijn kopje koffie?
+We passen allemaal in het autootje van mijn opa.
+Dit boomtje is dar niet sterk genoeg voor.
+
 --- 
