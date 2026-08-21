@@ -92,8 +92,11 @@ Show only the PID and command of the matching processes.
 
 ## curl — Client URL (HTTP client)
 
-- `-s` — silent; hide the progress meter and error messages
-- `-H` — add a custom HTTP header
+- `-f` - fail on HTTP errors
+- `-s` - silent; hide the progress meter and error messages
+- `-S` - Show errors when though `-s` is enabled
+- `-L` - Follow HTTP redirects
+- `-H` - add a custom HTTP header
 - `-I` — HEAD request; fetch only the response headers, not the body
 - `-X <METHOD>` — set the HTTP method
 - `-d '<data>'` — request body
@@ -313,3 +316,12 @@ Query DNS servers. Mainly used to troubleshoot DNS issues.
 - `git tag --sort=creatordate | tail -5` Shows the 5 most recent tags created
 - `git tag -a 18.9.0 -m "The tag annotation that wil stick into the git history"` - Will add a new annotated tag to the current branch - git push origin 18.9.0 => will trigger the release
 
+## usermod - modify user - changes properties of an existing Linux user account
+
+- `sudo usermod -aG incus-admin ebi` - add this group to the user's existing group (don't replace, but append)
+- `-a` append
+- `-G` supplementary groups
+
+## groups <account/user's name> - which groups does this user belongs to
+
+- `groups ebi` shows all the groups belongs to user ebi 
