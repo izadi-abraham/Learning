@@ -10573,4 +10573,45 @@ Waarom doet hij zout in zijn kopje koffie?
 We passen allemaal in het autootje van mijn opa.
 Dit boomtje is dar niet sterk genoeg voor.
 
+--- Dag 875
+
+Hij is mijn vriendtje.
+Hij is mijn vriendje.
+Het omatje is sterk.
+Het omaatje is sterk.
+Het omaatje is sterk.
+Heb jij een vriendje?
+Heb jij een vriendje?
+Ons omaatje verkoopt ice voor ons.
+Ons omaatje kookt eitjes voor ons.
+Ik bestel een beerje.
+Ik bestel een biertje.
+Wat een schatich babietje.
+Wat een schattig baby'tje.
+Wat een schattig baby'tje.
+Soms gaat 
+Soms ga ik uit voor een biertje.
+Het baby'tje is nog maar drie weken uit.
+Het baby'tje is nog maar drie weken oud.
+Ik wacht op zijn telefonetje.
+Ik wacht op zijn telefoontje.
+Ik wil nog een dingetje zegen.
+Ik wil nog een dingetje zegen.
+Ik wil nog een dingetje zeggen.
+Ik krijg altijd telefoontjes van haar.
+Ik krijg altijd telefoontjes van haar.
+De man krijgt telefoontje van de bank.
+De man krijgt een telefoontje van de bank.
+De omaatjes drinken elke woensdag samen thee.
+De omaatjes drinken elke woensdag samen thee.
+Het baby'tje huildt de hele nacht.
+Het baby'tje huilt de hele nacht.
+Ik ben trots op mijn vriendje.
+Ik ben trots op mijn vriendje.
+Ik wil nog een dingetje zegen.
+Ik wil nog een dingetje zeggen.
+Er zitten veel 
+In de tas zitten veel leuke dingetjes.
+In de tas zitten veel leuke dingetjes.
+
 --- 
