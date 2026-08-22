@@ -10614,4 +10614,30 @@ Er zitten veel
 In de tas zitten veel leuke dingetjes.
 In de tas zitten veel leuke dingetjes.
 
---- 
+--- Dag 876
+
+De kasjes in de keuken zijn nog leeg.
+De kastjes in de keuken zijn nog leeg.
+Hij maakt een doosje in een doosje in een doosje.
+Hij maakt een doosje in een doosje in een doosje.
+In het mandje zitten een paar appels.
+In het mandje zitten een paar appels.
+Het boomtje is daar niet sterk geneog voor.
+Dit boompje is daar niet sterk genoeg voor.
+Het oude vrouwtje zit in een rolstoel.
+Het oude vrouwtje zit in een rolstoel.
+Ik wil je in een doosje stoppen.
+Bij deze dieren zijn de vrouwtje baas.
+Bij deze dieren zijn de vrouwtjes baas.
+Je hebt een doosje aardbeien bij je.
+We passen allemaal in het autoje van mijn opa.
+We passen allemaal in het autotje van mijn opa.
+Het arme gezien woont in een heel klein huistje.
+Het arme gezin woont in eeh heel klein huisje.
+Ons oma kookt eitjes voor ons.
+Ons omaatje kookt eitjes voor ons.
+Ik wil graag een zusje voor mijn verjaardag.
+Hij maakt een doosje in een doosje in een doosje.
+Dit boompje is daar niet sterk genoeg voor.
+
+---
