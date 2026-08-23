@@ -10640,4 +10640,38 @@ Ik wil graag een zusje voor mijn verjaardag.
 Hij maakt een doosje in een doosje in een doosje.
 Dit boompje is daar niet sterk genoeg voor.
 
+--- Dag 877
+
+Ik draag een maandje.
+Ik draag een mandje.
+Het landtje wordt groen als het eten klaar is.
+Het lamptje wordt groen als het eten klaar is.
+Het lampje wordt groen als het eten klaar is.
+De hond en de kat slapen samen in de maandje.
+De hond en de kat slapen same in een mandje.
+Er zitten een paar appels in de mandje.
+In de madne zitten een paar appels.
+In het mandje zitten een paar appels.
+Dit kastje is altijd op slot.
+Dit kastje zit altijd op slot.
+Dit kastje zit altijd op slot.
+Ik zoek een lampje.
+Doe jij het lampje uit?
+Ze geeft hem altijd notes.
+Ze heeft altijd hem notes.
+Zij geeft hem altijd briefjes.
+Er staat een kastje naast mijn bed met een lampje erop.
+Er staat een kastje naast mijn bed met een lampje erop.
+Het rame gezin woont in een heel klein huisje.
+Het arme gezin woont in een heel klein huisje.
+Er ligt een briefje op de tafel.
+Het huisje is oud.
+De kastjes in de keuken zijn nog leeg.
+Ik draag een  mandje.
+Het huisje is oud.
+Het briefje is voor haar.
+Wij hebben een huisje aan de kust.
+Het briefje is voor haar.
+Wij hebben een huisje aan de kust.
+
 ---
