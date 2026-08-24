@@ -168,3 +168,67 @@ HTTP:
 ** One important detail: Encoding doesn't provide security (like Base64) but encryption does it. TLS encrypts the data. **
 
 Historically, ** TLS replaced SSL (Secure Sockets Layer). ** You'll still hear people say "SSL certificate," but modern HTTPS uses TLS, not SSL.
+
+### TLS Handshake
+Q: If the browser and server need to communicate using encryption, how do they agree on the encryption keys without sending the secrets key openly over the network?
+The famous cryptographic algorithms "Diffie-Hellman" key exchange. The idea is very interesting:
+
+```text
+Browser                         Server
+
+       public information
+       ◄────────────────────►
+
+       private information
+       (never transmitted)
+
+             ↓
+       both independently
+       calculate the same
+       shared secret
+
+       Shared Secret
+       ─────────────
+       same on both sides
+```
+
+#### Asymmetric and Symmetric cryptography are used in TLS
+The Asymmetric cryptography is useful for authentication and certain key-exchange mechanisms.
+Once the TLS handshake has established the shared key, symmetric encryption is used for the actual data because it's much more efficient.
+
+```text
+TLS handshake
+      │
+      ├── Authenticate server
+      │
+      ├── Establish shared key material
+      │
+      ▼
+Symmetric encryption
+      │
+      ▼
+Encrypted HTTP traffic
+```
+
+#### TLS Certificates and Certificate Authorities(CAs)
+These help the browser to know if the server is really google.com or not as an example.
+
+```text
+TCP
+ │
+ │ Reliable connection
+ ▼
+TLS
+ │
+ ├── Certificate
+ │      └── "This server is google.com"
+ │
+ ├── Authentication
+ │
+ ├── Key exchange
+ │
+ └── Encrypted communication
+ ▼
+HTTP
+```
+
