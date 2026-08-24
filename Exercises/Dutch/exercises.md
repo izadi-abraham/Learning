@@ -10674,4 +10674,45 @@ Wij hebben een huisje aan de kust.
 Het briefje is voor haar.
 Wij hebben een huisje aan de kust.
 
----
+--- Dag 878
+
+De rode vogel is een mannentje.
+De rode vogel is een mannetje.
+Is het konijn mannetje of vrouwetje?
+Is het konijn mannentje of vrwouetje?
+Is het konijn mannetje of een vrouwtje?
+Mijn kleine broer is nog een kind.
+Mijn broertje is nog een kind.
+De ..... worden al rood.
+De .... worden nu al rood.
+De blaadjes worden nu al rood.
+De blaadjes worden nu al rood.
+De blaadjes zijn groen niet rood.
+De rode vogel is een mannetje.
+De rode vogel is een mannetje.
+Ik kijk uit het ramp naar andere autos.
+Ik kijk uit het ramp ...naar andere auto's.
+Ik kijk uit het ramptje naar de andere auto's.
+Ik kijk uit het raampje naar de andere auto's.
+Ik graag een zusje voor mijn verjaardag.
+Ik wil graag een zusje voor mijn verjaardag.
+Mijn zusje wil bij het raampje zitten.
+Mijn zusje wil bij het raampje zitten.
+Hij doet het raampje open.
+Wat een raar mannetje is dat.
+Het oude vrouwtje zit in een rolstoel.
+Je krijgt een klein broertje.
+In de herfst, vallen blaadjes van bomen.
+In de herfst, vallen de blaadjes van de bomen.
+Ze is bow op haar broertjes.
+Ze is boos op haar broertjes.
+Hij doet het raampje open.
+De raampjes worden nu al rood.
+De blaadjes worden nu al rood.
+Ik kijk uit het raampjes naar de andere auto's.
+Ik kijk uit het raampje naar de andere auto's.
+Ik wil graag een zusje voor mijn verjaardag.
+In de herfst, vallen de blaadjes van de bomen.
+De blaadjes worden nu al rood.
+
+--- 
