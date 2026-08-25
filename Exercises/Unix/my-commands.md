@@ -98,6 +98,7 @@ Show only the PID and command of the matching processes.
 - `-L` - Follow HTTP redirects
 - `-H` - add a custom HTTP header
 - `-I` — HEAD request; fetch only the response headers, not the body
+- `-i` - Include headers to the response (headers + body) 
 - `-X <METHOD>` — set the HTTP method
 - `-d '<data>'` — request body
 - `-c cookies.txt` — cookie jar; store received cookies
@@ -109,6 +110,13 @@ curl -s -H "Authorization: Bearer $TOKEN" "https://test-nl.datahive.online/api/v
 curl -s -H "Authorization: Bearer $TOKEN" "https://test-nl.datahive.online/api/v2/registry-account/select-list?book=goo&type=short&accountId=28101" | jq ".data[].value"
 curl -s -H "Authorization: Bearer $TOKEN" "https://test-nl.datahive.online/api/v2/registry-account/select-list?book=goo&type=short&accountId=28101" | jq ".message"
 ```
+Get Response Headers / Body / Body + Headers
+```
+curl https://google.com (Only Body)
+curl -i https://google.com (Body + Headers)
+curl -I https://google.com (Only Headers)
+```
+
 Call the API with an auth token in the header (`-H`), silently (`-s`), then pipe to `jq` to pretty-print the response or pull out specific fields.
 
 Impersonate a browser's CORS preflight handshake:
