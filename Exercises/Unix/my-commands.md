@@ -325,3 +325,13 @@ Query DNS servers. Mainly used to troubleshoot DNS issues.
 ## groups <account/user's name> - which groups does this user belongs to
 
 - `groups ebi` shows all the groups belongs to user ebi 
+
+## ping - sends ICMP packets to test whether a host is reachable.
+`-c` stands for `count` and it specifies how many packets to send.
+`ping -c 3 8.8.8.8` send 3 packets to google's public DNS server.
+
+
+
+
+
+
