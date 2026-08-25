@@ -10715,4 +10715,36 @@ Ik wil graag een zusje voor mijn verjaardag.
 In de herfst, vallen de blaadjes van de bomen.
 De blaadjes worden nu al rood.
 
+--- Dag 879
+
+Het jongentje lijkt op zijn vader.
+Het jongetje lijkt op zijn vader.
+Het kind drinkt een glasje sap.
+Het kind drinkt glaasje sap.
+Het kind drinkt een glaasje sap.
+Dat is geen mannetje, dat is een jongetje.
+Het meisje spelt met de autojes.
+Het meisje speelt met de autootjes.
+Het meisje speelt met de autootjes.
+Dit boompje is daar niet sterk genoeg voor.
+Dit boompje is daar niet sterk genoeg voor.
+Dat is geen mannetje, dat is een jongetje.
+Ik drink een kopje thee.
+Ik eet een eitje.
+Dat is een eitje.
+Waarom doet hij zout in zijn kopje koffie?
+Het jongetje draagt klompje.
+Het jongetje draagt kompen.
+Het jongetje draagt klompen.
+Mijn moder bestelt altijd een glaasje wijn.
+Mijn moeder bestelt altijd een glaasje wijn.
+Ik drink een kopje koffie.
+Ik drink een kopje thee.
+De nieuwe boompjes staan allemaal op een rij.
+Ik eet een eitje.
+Dat is een eitje.
+De kok kookt een eitje.
+Dat is een eitje.
+De kok kookt een eitje.
+
 --- 
