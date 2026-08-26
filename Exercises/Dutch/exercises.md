@@ -10747,4 +10747,34 @@ De kok kookt een eitje.
 Dat is een eitje.
 De kok kookt een eitje.
 
+--- Dag 880
+
+Het omaatje is sterk.
+Hij is mijn vriendie.
+Hij is mijn vriendje.
+De man krijgt een telefoontje van de bank.
+Heb je dit dingje ergens voor nodig?
+Heb je dit dingetje ergens voor nodig?
+Heb je dit dingetje ergens voor nodig?
+Ik ben trots op mijn vriendje.
+Ik ben trots op mijn vriendje.
+Ons omaate kookt eitje voor ons.
+Ons omaatje kookt eitjes voor ons.
+Hij is mijn vriendje.
+In de taas zitten veel leuke dingetjes.
+In de tas zitten veel leuke dingetjes.
+Ons omaatje kookt eitjes voor ons.
+De omaatje is sterk.
+Ik wacht voor zijn telefoontje.
+Ik wacht op zijn telefoontje.
+De omaatjes drinken elke woensdag samen thee.
+De omaatjes drinken elke woensdag samen thee.
+Wat een schatig baby'tje.
+Wat een schattig baby'tje.
+Ik wil nog een dingetje zeggen.
+Ik wil nog een dingetje zeggen.
+Heb je een vriendje?
+Ik wil nog een dingetje zeggen.
+De man krijgt een telefoontje van de bank.
+
 --- 
