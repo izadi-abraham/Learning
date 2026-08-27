@@ -10777,4 +10777,33 @@ Heb je een vriendje?
 Ik wil nog een dingetje zeggen.
 De man krijgt een telefoontje van de bank.
 
+--- Dag 881
+
+Ik wil graag een zusje voor mijn verjaardag.
+Bleedjes worden nu al rood.
+Blaadjes worden nu al rood.
+De blaadjes worden nu al rood.
+In herfst blaadjes vallen van boomen.
+In de herfst vallen de blaadjes van de bomen.
+In de herfst vallen de blaadjes van de bomen.
+Ik kijk uit het raamp naar de andere auto's.
+Ik kijk uit het raampje naar de andere auto's.
+Dat is een eitje.
+De kok kookt een eitje.
+Dit boomtje is daar niet sterk genoeg voor.
+Dit boompje is daar niet sterk genoeg voor.
+Ik draag een maandje.
+Ik draag een mandje.
+Hij is mijn vriendje.
+Mag ik andere cupje koffie?
+Mag ik nog een cupje koffie?
+Mag ik nog een cupje koffie?
+Zij geeft hem altijd briefjes.
+Zij geeft hem altijd briefjes.
+Ik wil nog een dingetje zeggen.
+Ik wil nog een dingetje zeggen.
+Ik wil nog een dingetje zeggen.
+In de herfst vallen de blaadjes van de bomen.
+De kok kookt een eitje.
+
 --- 
