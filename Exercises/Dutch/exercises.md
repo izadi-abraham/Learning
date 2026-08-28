@@ -10806,4 +10806,28 @@ Ik wil nog een dingetje zeggen.
 In de herfst vallen de blaadjes van de bomen.
 De kok kookt een eitje.
 
---- 
+--- Dag 882
+
+Hoeveel magen heeft een koe?
+Hoeveel magen heeft een koe?
+Ik begin te zien wat je wil zeggen.
+De baby stops alles in haar mond.
+De woorden komen uit de mond.
+De woorden komen uit de mond.
+De kaas is hard.
+De kaas is hard.
+De vrouw eet hard brood.
+De jonge dieren zijn zacht.
+Jij bent zacht, zoals een beer.
+Jij bent zacht, net zoals een beer.
+We bekijken de ineresante spin.
+We bekijken de interessante spin.
+Jij bent zacht, net zoals een beer.
+We bekijken de interessante spin.
+De bannan is zacht, niet hard.
+De banaan is zacht, niet hard.
+De bannan is zacht, niet hard.
+Haar haar ligt op mijn schouder.
+De woorden komen uit de mond.
+
+---
