@@ -10830,4 +10830,24 @@ De bannan is zacht, niet hard.
 Haar haar ligt op mijn schouder.
 De woorden komen uit de mond.
 
----
+--- Dag 883
+
+Dat is een lelijk gebouw.
+Het is een lelijk gebouw.
+Het is geen leilijk huis.
+Dat is geen lelijk huis.
+Hij durft niet te zwemen.
+Hij durft niet te zwemmen.
+Wij vragen jullie om niet te wachten.
+Wij vragen jullie om niet te wachten.
+Wij vragen jullie om niet te wachten.
+Mijn benen zijn zwake.
+Mijn benen zijn zwak.
+Dat is geen lelijk huis.
+Er zit een bot in de keel van de hond.
+Wij zorgen voor jullie.
+Haar ouders zorgen voor haar.
+Jij probeert om niet te slapen.
+Jij probeert om niet te slapen.
+
+--- 
