@@ -10850,4 +10850,33 @@ Haar ouders zorgen voor haar.
 Jij probeert om niet te slapen.
 Jij probeert om niet te slapen.
 
---- 
+--- Dag 884
+
+Ik hoor de stemen nog steds.
+Ik hoor de stemmen nog setds.
+Ik hoor de stemmen nog steeds.
+Ik hoor de stemmen nog steeds.
+Mijn hoofd heeeft twee ogen.
+De kat heeft groene ogen.
+Ik zet mijn hood op mijn hoofd.
+Ik zeg mijn hoed op mijn hoofd.
+Ik zet mijn hoed op mijn hoofd.
+Zij heeft blauwe ogen.
+De dokter bekijkt mijn keel.
+De muis rent over de kaas heen.
+De muis rent over de kaas heen.
+De soldatie rent over de muur heen.
+De sldaat rent over de muur heen.
+Laten we naar huis gaan?
+Laten we naar huis gaan.
+Laten we dancen.
+Laten we dansen.
+Er zit iets in mijn keel.
+Hoofd, schouders, knie en teen.
+Hoofd, shouders, knie en teen.
+Hoofd, schouders, knie en teen.
+De muis rent over de kaas heen.
+De soldaat rent over de muur heen.
+
+---
+
