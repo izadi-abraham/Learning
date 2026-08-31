@@ -10878,5 +10878,32 @@ Hoofd, schouders, knie en teen.
 De muis rent over de kaas heen.
 De soldaat rent over de muur heen.
 
+--- Dag 885
+
+Ik zoek een lamp.
+Ik zoek een lampje.
+De blaadjes zijn groen, niet rood.
+De blaadjes zijn groen, niet rood.
+Er ligt een briefje op de tafel.
+Hij maakt een doosje in een doosje in een doosje.
+De rode vogel is een mannentje.
+De rode  vogel is een mannetje.
+Ik draag een maandje.
+Ik draag een mandje.
+Ze is boos op haar broertjes.
+Ze is boos op haar broertjes.
+Je krijgt een broertje.
+Je krijgt een klein broertje.
+Je mag de kamer van je zustje niet in.
+Je mag de kamer van je zusje niet in.
+We hebben een huisje aan de kust.
+Wij hebben een huisje aan de kust.
+De kastjes in de keuken zijn nog leeg.
+Zij geeft hem altijd briefjes.
+Het oude vrouwje zit op een rolstoel.
+Het oude vrouwtje zit in een rolstoel.
+Dit kastje zit altijd op slot.
+Dit kastje zit altijd op slot.
+
 ---
 
