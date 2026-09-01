@@ -10905,5 +10905,42 @@ Het oude vrouwtje zit in een rolstoel.
 Dit kastje zit altijd op slot.
 Dit kastje zit altijd op slot.
 
----
+--- Dag 886
 
+De meisjes spelen met de auto's.
+Het meisje speelt met de auto's.
+Het meisje speelt met de autotjes.
+Het meisje speelt met de autootjes.
+Soms ga ik uit voor een bier.
+Soms ga ik uit voor een bierje.
+Soms ga ik uit voor een biertje.
+Ik drink een kupje thee.
+Ik drink een kopje thee.
+De secretares drinkt vijf kopjes koffie.
+De secretares drinkt vijf kopjes koffie.
+De secretaris drinkt vijf kopjes koffie.
+Ik wacht op zijn telefoon.
+Ik wacht op zijn telefoontje.
+Ik wil graag een glas water.
+Ik wil graag een glaasje water.
+De omatje is sterk.
+Het omaatje is sterk.
+Het omaatje is sterk.
+Heb je de dingitje ergens voor nodig?
+Heb je de dingetje ergens voor nodig?
+Heb je dit dingetje ergens voor nodig?
+Heb je dit dingetje ergens voor nodig?
+Er zitten veel leuke dingetje in de taasje.
+In de tas zitten veel leuke dingetjes.
+In de tas zitten veel leuke dingetjes.
+Heb jij een vriendje?
+De omaatjes drinken thee elke woensdag.
+De omaatjes drinken elke woensdag samen thee.
+De kok kookt een eitje.
+Dat is geen manetje, dat is een jongetje.
+Dat is geen mannetje, dat is een jongetje.
+Ik krijg altijd telefoontjes van haar.
+Het omaatje is sterk.
+Ik krijg altijd telefoontjes van haar.
+
+---
