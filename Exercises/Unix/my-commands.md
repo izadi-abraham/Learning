@@ -250,7 +250,18 @@ If you stop `evince` and then try to interact with its still-open PDF window, it
 An external executable program known to the shell.
 
 - `date` — print the current date and time
+- `date +Format` - print the current date time in this specified format
+- `%` - special marker/escape character for a format directive
+- `%F` - Full date
+- `%s` - Unix timestamp in seconds (the number of seconds since January 1, 1970 UTC)
+- `%S` - Seconds within the current minute, e.g. `15`
+- `s, S, Y, F` - These are called Format Directives
 - `date +%F` — print `YYYY-MM-DD` (`%F` is shorthand for `%Y-%m-%d`)
+- `date +%Y` - print current year `2026`
+- `$(($(date +%s)*1000 - 300000))` - prints Unix timestamp representing 5 minutes ago
+- `$()` - command substitution in Bash
+- `$(())` - bash arithmetic expansion: evaluate this as a mathematical expression and substitue the result
+
 
 ## which — show the path of an external command
 
