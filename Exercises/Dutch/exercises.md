@@ -10943,4 +10943,29 @@ Ik krijg altijd telefoontjes van haar.
 Het omaatje is sterk.
 Ik krijg altijd telefoontjes van haar.
 
----
+--- Dag 887
+
+Wij hebben een huisje aan de kust.
+De kastjes in de keuken zijn nog leeg.
+In het mandje zitten een paar appels.
+Het oude vrouwtje zit in een rolstoel.
+De rode vogel is een mannetje.
+Ik wacht op zijn telefoontje.
+Hij is mijn vriendin.
+Hij is mijn vriendje.
+De babytje huilt de hele nacht.
+De baby'tje huilt de hele nacht.
+Het kind drinkt een glaasje water.
+Het kind drinkt een glaasje sap.
+Mijn broertje is nog een kind.
+Het jongetje lijkt op zijn vader.
+Er zitten veel leuke dingetje in de tas.
+In de tas zitten veel leuke dingetje.
+In de tas zitten veel leuke dingetjes.
+Het omaatje is sterk.
+Doe je de lapje uit?
+Doe jij het lampje uit?
+Dit kastje zit altijd op slot.
+Hij is mijn vriendje.
+
+--- 
