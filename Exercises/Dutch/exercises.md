@@ -10968,4 +10968,35 @@ Doe jij het lampje uit?
 Dit kastje zit altijd op slot.
 Hij is mijn vriendje.
 
---- 
+--- Dag 888 - Section 3, Unit 24 - Go on a trip
+
+Zij is naar Frankrijk te gan.
+Zij is naar Frankrijk gegaan.
+Ik ga volgende week naar Duistland.
+Ik ga volgende week naar Duitsland.
+Ze reist graag.
+Ze reist graag.
+Ze reist graag.
+Wij reizen naar het ooste.
+Wij reizen naar het oosten.
+Wij reizen naar het oosten.
+Waarom reist hij niet naar Frankrijk?
+Wij reizen naar America.
+Wij reizen naar Amerika.
+Mij oma reizt naar Amerika ge
+Mijn oma is naar Amerika gerend.
+Mijn oma is naar Amerika gerend.
+Reiz jij vaak naar Frankrijk?
+Reis jij vaak naar Frankrijk?
+Ik reis met mijn vrouw naar Frankrijk.
+Ik reis met mijn vrouw naar Frankrijk.
+Zij studeert in het buitenland.
+Zij studeert in het buitenland.
+Ik wil niet naar het buitenland gaan.
+Hij reist naar Duitsland.
+Hij reist naar Duitsland.
+Amerika is ten westen van Engeland.
+Amerika is ten westen van Engeland.
+Mijn oma is naar Amerika gerend.
+
+---
