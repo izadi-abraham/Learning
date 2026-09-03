@@ -32,3 +32,8 @@ TypeSpec --> Emitters generate --> OpenAPI (REST) + OpenSearch mappings + GraphQ
 --> Services pin & deploy them
 ```
 
+### Zod
+Zod helps to do runtime validation. Zod schemas will check actual incomming data.
+TypeScript checks at compile time (does the code fit together?), then it's type are erased from the running JavaScript. Zod checks at runtime (does this actual value, comming from outside, match?).
+Wherever data enters from a place the compiler can't see - API responses, form input, workflow tokens, queue messages, Zod can validate.
+Zod can derive a TypeScript type from a schema like `CounterpartyParamsSchema`, (z.infer), so the compile-time and runtime definitions can never drift apart.
