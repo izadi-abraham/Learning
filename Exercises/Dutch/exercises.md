@@ -10999,4 +10999,32 @@ Amerika is ten westen van Engeland.
 Amerika is ten westen van Engeland.
 Mijn oma is naar Amerika gerend.
 
----
+--- Dag 889
+
+De trein stopt op het station.
+Wij hebben twee koffers.
+Ik boek vier kamers.
+Kan ik een stoel boeken?
+We moeten een vlieg boeken.
+We moeten een vlucht boeken.
+Is die tas jouw enige bagage?
+Is die tas jouw enige bagage?
+Is die tas jouw enige bagage?
+Het meisje slaapt tijdens de vlucht.
+Ik heb een koffer.
+Mijn koffer is geel.
+Mijn koffer is geel.
+Ik reizt met trein graag.
+Ik reis graag met de trein.
+Ik reis graag met de trein.
+De aankomst is op de dezelfde dag.
+De aankomst is op dezelfde dag.
+De aankomst is op dezelfde dag.
+Haar ouders zoeken voor zijn bagages.
+Haar ouders zoeken hun bagage.
+Haar ouders zoeken naar hun bagage.
+Haar ouders zoeken naar hun bagage.
+Ik reis graag met de trein.
+De aankomst is op dezelfde dag.
+
+--- 
