@@ -11027,4 +11027,26 @@ Haar ouders zoeken naar hun bagage.
 Ik reis graag met de trein.
 De aankomst is op dezelfde dag.
 
+--- Dag 890
+
+De jonge draagt een rugzak.
+De jongen draagt een rugzak.
+Hij is onze gids.
+Ik ben een toerist.
+Amsterdam heeft veel toeristen.
+Het avontuur begint.
+Het avontuur begint.
+Zij wil Amsterdam bezoeken.
+Zij houdt van avondtuur.
+Zij houdt van avontuur.
+Kan ik een windmolen bezoeken?
+Mijn vlucht vertrekt een 
+Mijn vlucht vertrekt om vier uur.
+Mijn vlucht vertrekt om vier uur.
+Hebben wij een gids?
+Hebben wij een gids?
+Hij is onze gids.
+We volgen ons gids.
+Wij volgen onze gids.
+
 --- 
