@@ -11049,4 +11049,34 @@ Hij is onze gids.
 We volgen ons gids.
 Wij volgen onze gids.
 
---- 
+--- Dag 891
+
+Is het ver weg?
+Is het ver weg?
+Hij zit in het vliegtug.
+Hij zit in het vliegtuig.
+Ligt Engeland ver van Nederland en Belgie?
+Mag ik uw kaartje zien?
+Mag ik uw kaartje zien?
+Kan dit tapijt vliegen?
+Waar kan jij een kaartje kopen?
+Waar kan je een kaartje kopen?
+Ik ben hier met vakantie.
+Ik ben hier met vakantie.
+Tijdens de vakantie slaap ik veel.
+Ik ben op bezoek bij mijn oma.
+Ik ben op bezoek bij mijn oma.
+Als we in de buurt zijn komen we op bezoek.
+Als we in de buurt zijn kome we op bezoek.
+De vrouw heeft een vliegtuig.
+De vrouw heeft een vliegtuig.
+Hoe ver is het?
+Hoe ver is het?
+Kan dit tipijt vliegen?
+Kan dit tapijt vliegen?
+Kan dit tapijt vliegen?
+De ..... is bung van vliegen.
+De acteur is ban om te vliegen.
+De aceur is bang om te vliegen.
+
+---
