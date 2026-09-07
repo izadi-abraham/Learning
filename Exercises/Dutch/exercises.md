@@ -11079,4 +11079,32 @@ De ..... is bung van vliegen.
 De acteur is ban om te vliegen.
 De aceur is bang om te vliegen.
 
+--- Dag 892
+
+Saskia heeft twee huisen en een boot.
+Saskia heeft twee huizen en een boot.
+Ik wil een zeilboot.
+Mijn vader heeft een zeilboot van twaalf meter.
+Ik zie honderd schepen.
+Ik zie honderd schepen.
+Het schip is in de haven.
+Waar lichen jouw schepen?
+Waar liggen jouw schepen?
+Elk schip heeft een kapitain nodig.
+Elk schip heeft een kapitein nodig.
+Wij reizen met de veerboot.
+Wij gaan met de veerboot naar Engeland.
+Wij gaan met de veerboot naar Engeland.
+Het schip vaart naar Engeland.
+Het schip vaart naar Engeland.
+Mijn boot is blauw.
+Schepen varen in deze gebieden.
+De schepen verterken naar Engeland.
+De schepen vertrekken naar Engeland.
+De veerboot vaart dag en nacht.
+De veerboot vaart dag en nacht.
+Wij gaan met de veerboot naar Engeland.
+Er liggen vier zeilboten op het water.
+Er zijn vier zeilboten op het water.
+
 ---
