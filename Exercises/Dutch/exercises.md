@@ -11107,4 +11107,43 @@ Wij gaan met de veerboot naar Engeland.
 Er liggen vier zeilboten op het water.
 Er zijn vier zeilboten op het water.
 
+--- Dag 893
+
+Ik heb een visum.
+Ik heb geen paspoort.
+Ik heb geen paspoort.
+Je moet een visum krijgen.
+U moet een visum aanvragen.
+U moet een visum aanvragen.
+Ik vraag een nieuw paspoort aan voordat ik op vacantie gaan.
+Ik vraag een nieuw paspoort aan voordat ik op vakantie gaan.
+Ik vraag een nieuw paspoort aan, voordat ik op vakantie gaan.
+Wij wilen 
+Wij willen internationaal zijn.
+Wij willen internationaal zijn.
+Zijn de internationale kinderen interesaant?
+Zijn de internationale kinderen interessant?
+Wij gaan samen naar de ambasaador.
+Wij gaan samen naar de ambassade.
+Wij gaan samen naar de ambassade.
+Wij gaan samen naar de ambassade.
+Wij bezoekn de bezienswaardigheeden.
+Wij bezoeken de bezienswaardigheden.
+Wij bezoeken de bezienswaardigheeden.
+Het is een internationale stad.
+Het is een internationale stad.
+De bezienswaardigheden zijn voor toeristen.
+De bezienswaardigheden zijn voor toeristen.
+Uw paspoort alstublieft.
+Ik houd van dit bezienswaardigheden.
+Ik houd van deze bezienswaardigheid.
+Hebben we nodig onze paspoorten?
+Hebben wij nodig onze paspoorten?
+Hebben wij onze paspoorten nodig?
+Ineternationale vluchten zijn duur.
+Internationale vluchten zijn duur.
+Internationale vluchten zijn duur.
+Hebben we onze paspoorten nodig?
+Hebben wij onze paspoorten nodig?
+
 ---
