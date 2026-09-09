@@ -59,7 +59,7 @@ Kafka is a log (message persist, many independent readers, replayable, ordered p
 
 
 ### MSK
-Managed Streaming for Kafka: AWS running Kafka for us, so nobody at STX patches Kafka servers. "The MSK cluster" = STX's central Kafka installation.
+Managed Streaming for Apache Kafka: AWS running Kafka for us, so nobody at STX patches Kafka servers. "The MSK cluster" = STX's central Kafka installation.
 
 
 ### SQS - Simple Queue Service
@@ -77,6 +77,35 @@ A function AWS runs for you on demand. No server, you pay per invocation and it 
 Each AWS account's own private network.
 
 
-### Multi-VPC connectino
+### Multi-VPC connection
 Is an MSK-specific feature (built on AWS PrivatLink) that opens one private, purpose-built door from another account's network straight to the Kafka cluster.
 (between legacy account - where MSK lives - and the core-services account - where the consumer lambda lives) 
+
+
+### CDK - Cloud Development Kit
+AWS CDK is a framework that lets you define AWS infrastructure(resources such as an s3 bucket) using familiar programming languages such as TypeScript, Python,... instead of writing infrastructure configuratino directly.
+In our `src/stacks/**` directory we write with TypeScript "a DynamoDB table with these keys, a lambda with this memory and these permissions, an API in front of it."
+running `cdk synth` compiles that TypeScript into CloundFormation template.
+
+## CloudFormation template
+The CKD synthesizes your code into CloudFormation template which AWS uses to create and manage infrastructure(resources).
+
+## Stack
+A deployable group of AWS resources managed together.
+
+
+### SDK = Software Development Kit
+A collection of tools, libraries and APIs that helps you build applications for a particular platform or service.
+For example the AWS SDK lets your application talk with AWS services programmatically. (your application talk to a s3 bucket via an API)
+
+## SDK vs. CDK
+SDK -> used by your application code to interact with AWS.
+CDK -> used to define and deploy infrastructure on AWS.
+
+```
+// SDK: application wants to upload a file
+await s3Client.send(new PutObjectCommand(...));
+
+// CDK: infrastructure wants to create a bucket
+new s3.Bucket(this, 'MyBucket');
+```
