@@ -350,6 +350,22 @@ Query DNS servers. Mainly used to troubleshoot DNS issues.
 `ping -c 3 8.8.8.8` send 3 packets to google's public DNS server.
 
 
+## AWS related commands
+
+### sso login
+`asw sso login --profile profile-name` logs you in through the browser confirmation flow
+
+### lambda get-function-configuration
+`aws lambda get-function-configuration --function-name functionName --profile profileName --region regionName --query '[CodeSha256,LastModified]'` - gets the lambda code's hash and modified date, so you can compare what is
+current lambda code's available on the specific environment like beta or prod.
+
+### lambda invoke
+`aws lambda invoke --function-nam functionName \
+--payload '{"entityType":"group"}' \
+--cli-binary-format raw-in-base64-out \
+--profile profileName --region regionName /tmp/out.json && cat /tmp/out.json`
+Invokes the lambda function with specified payload and writes the response in the out.json file and shows it.
+
 
 
 
