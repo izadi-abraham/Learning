@@ -11146,4 +11146,34 @@ Internationale vluchten zijn duur.
 Hebben we onze paspoorten nodig?
 Hebben wij onze paspoorten nodig?
 
+--- Dag 894
+
+Mijn oma is naar America gerend.
+Mijn oma is naar America gerend.
+Mijn oma is naar Amerika gerend.
+De .... is op hetzelfde dag.
+De aankomst is op dezelfde dag.
+Ik graag met de trein reis.
+Ik reis graag met de trein.
+Waarom reis hij niet naar de frankrijk?
+Waarom reis hij niet naar de Frankrijk?
+Waarom reist hij niet naar Frankrijk?
+Ik wil een zeilboot.
+Frankrijk is ten zuide van Nederland.
+Frankrijk is ten zuiden van Nederland.
+Frankrijk is ten zuiden van Nederland.
+Reis jij vaak naar Frankrijk?
+Mijn vader heeft een zeilboot van twalf meter.
+Mijn vader heeft een zeilboot van twalf meter.
+Mijn vader heeft een zeilboot van twaalf meter.
+Mijn boot is geel.
+Het schep is in de haven.
+Het schip is in de haven.
+Je moet een ... krijgen.
+Je moet een visun krijgen.
+Je moet een visum krijgen.
+De boot van zijn oom is in een andere stad.
+De boot van zijn oom is in een andere stad.
+Ik reis graag met de terin.
+
 ---
