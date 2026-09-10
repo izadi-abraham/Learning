@@ -11176,4 +11176,49 @@ De boot van zijn oom is in een andere stad.
 De boot van zijn oom is in een andere stad.
 Ik reis graag met de terin.
 
+--- Dag 895
+
+Ze reist graag.
+Ik spreek Engels want ik hen in Amerika gewoont.
+Ik spreek Engels want ik heb in Amerika gewoond.
+Ik spreek Engels, want ik heb in Amerika gewoond.
+Mijn oma is naar Amerika gerend.
+Mijn oma is naar Amerika gerend.
+Zijn is naar Frankrijk gegaan.
+Zij is naar Frankrijk gegaan.
+I spreek Engels, want ik heb in Amerika gewoond.
+Hij reist naar Duitsland.
+Hij reist naar Duitsland.
+Duitsland is ..... oostern.
+Duitsland is heet van oostern.
+Duitsland is ten oosten van Nederland.
+Duitsland is ten oosten van Nederland.
+De dief is verschijlijk in het buitenland.
+De dief is waarshcijnlijk in het buitenland.
+De dief is waarschijnlijk al in het buitenland.
+Zij reizen naar Frankijk op februari.
+Zij reizen naar Frankrijk in februari.
+Zij reizen naar Frankrijk in februari.
+Mijn oma is naar Amerika gerend.
+Wij weten niet wanneer roos naar Amerika gekomen is.
+Wij weten niet wanneer Roos naar Amerika gekomen is.
+Wij weten niet wanneer Roos naar Amerika gekomen is.
+Ik zwem van Frankrij naar Engeland eens.
+Ik zwem naar Engeland van Frankrij eens.
+Ik zwem eens naar Engeland van Frankrijk.
+Ik ben een keer van Frankrijk naar Engeland gezwommen.
+Ik ben een keer van Frankrijk naar Engeland gezwomen.
+Ik ben een keer van Frankrijk naar Engeland gezwommen.
+Amerika is ten westen van Engeland.
+Frankrij is ten zuiden van Nederland.
+Duitsland is ten oosten van Nederland.
+Zij studeert in het buitenland.
+Zij studeert in het buitenland.
+Ik wil niet naar het buitenland gaan.
+Frankrij is ten Zuiden van Nederland.
+Wij weten niet wanneer Roos naar Amerika gekomen is.
+Ik heb een keer van Frankrijk naar Engeland gezwemmen.
+Ik ben een keer van Frankrijk naar Engeland gezwemmen.
+
 ---
+
