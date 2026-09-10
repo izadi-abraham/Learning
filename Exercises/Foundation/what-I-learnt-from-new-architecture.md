@@ -15,13 +15,29 @@ The search database (an ElasticSearch fork). The index-writer lambda (in our spe
 A document in OpenSearch is basically equal to a row in postgreSql table.
 
 ## GraphQL
-The query language the Single Page Application speaks to the "Search API (in our specific scenario)". The browser asks for exactly the fields it wants.
+The query language the Single Page Application speaks to the "Search API (in our specific scenario, the search API is the name we give to the AppSync)". The browser asks for exactly the fields it wants.
 
-### GraphQL resolver
+## GraphQL resolver
 The GraphQL resolvers then translate the GraphQL query into OpenSearch queries.
+There is only one endpoint (GraphQL client). So in our case there is ` searchApiFetch -> single GraphQL client -> one apiUrl` in `src/api/client.ts`.
+Mental model: One endpoint, but each GraphQL field has its own resolver wired to its own data source. When the `POST` arrives, AppSync looks at which fields the operation asks for and routes accordingly.
 
-### GraphQL SDL
+- `searchCounterparty / CounterpartyProfileById / searchGroup ->` resolvers that query `OpenSearch`. These are projection of COS data - copies kept fresh by change-event - not COS itself.
+- `createTask / getTask / advanceActivity ->` lambda resolvers tha call the TLM backend (DynamoDB-backend).
+
+## GraphQL SDL
 Schema Definition Language
+
+## AppSync
+The AWS's managed GraphQL service. You give the AppSync a schema plus resolvers, and it hosts the endpoint, auth, and routing.
+
+### REST vs. GraphQL
+These are two styles of using HTTP:
+
+**REST**: The url names a source and the HTTP verb says what to do to it. `GET /counterparties/{id}` OR `PUT /counterparties/{id}/properties/website`. Each request is self-contained. Many URLs, meaningful verbs and fixed response shapes.
+**GraphQL**: Inverts all of that: One URL, always `POST` and the "What do I want moves into the request body" - including which fields to return, chosen by the client per query.
+**Neither is better**. They sit at different distances from the user. COS exposes `REST` because it is a `service-to-service` system API. The `SPA` gets `GraphQL` because a UI wants to fetch exactly the fields a screen needs
+in one round trip, without knowing which of many services owns what.
 
 
 ### Code Artifacts
