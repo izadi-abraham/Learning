@@ -125,3 +125,16 @@ await s3Client.send(new PutObjectCommand(...));
 // CDK: infrastructure wants to create a bucket
 new s3.Bucket(this, 'MyBucket');
 ```
+
+
+### Webhook vs. Polling
+Webhook is the inversion of Polling. 
+In **Polling** (let's consider we are trying to sync data with Hubspot), we call Hubspot every N minutes asking "what's new?" - mostly wasted calls, always stale by N minutes.
+In **Webhook** we hand Hubspot a URL and say "Call me wheb something changes." Mechanically a webhook is nothing more than an HTTPs endpoint we expose + a subscription registered with the other system.
+So in the current architecture we do: 
+- Subscription (config file uploaded to the HubSpot app)
+- Reciever (webhook handler - lambda - authentication only)
+- Queue
+- Worker (webhook worker - lambda)
+- Write to COS
+
