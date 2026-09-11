@@ -11220,5 +11220,41 @@ Wij weten niet wanneer Roos naar Amerika gekomen is.
 Ik heb een keer van Frankrijk naar Engeland gezwemmen.
 Ik ben een keer van Frankrijk naar Engeland gezwemmen.
 
----
+--- Dag 896
 
+Jouw koffer is te zwaar.
+Uw koffer is te zwaar.
+Wij hebben twee koffers.
+Is de trein op tijd?
+Is de trein op tijd?
+We moeten een vlucht boeken.
+We moeten een vlucht boeken.
+Ik drink een glaas water voor mijn aankomst.
+Ik drink een glas water voor mijn aankomst.
+Mijn koffer is geel.
+Is die tas jouw eine gebagesje?
+Is die tas jouw einige gebagesje?
+Is die tas jouw enige gebagesje?
+Is die tas jouw enige bagage?
+De boeken zijn in de koofer van mijn broer.
+De boeken zijn in de koffer van mijn broer.
+De boeken zitten in de groene koffer van mijn broer.
+De boeken zitten in de groene koffer van mijn broer.
+De aankomst in op dezelfde dag.
+De aankomst is op dezelfde dag.
+Het meisje slaapt terwijl de vlucht.
+Het meisje slaapt tijdens de vlucht.
+Het meisje slaapt tijdens de vlucht.
+Wij hebben twee koffers.
+Ik heb een koffer.
+We moeten boeken een vlucht.
+We moeten een vlucht boeken.
+Het is de eerste keer dat de trein is gestopped.
+Het is de eerste keer dat de trein daar gestoped.
+Het is de eerste keer dat de trein daar is gestoped.
+Is die taas jouw enige bagage?
+Is die tas jouw enige bagage?
+De boeken zitten in de groene koofer van mijn broer.
+De boeken zitten in de groene koffer van mijn broer.
+
+---
