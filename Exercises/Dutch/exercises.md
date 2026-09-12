@@ -11257,4 +11257,46 @@ Is die tas jouw enige bagage?
 De boeken zitten in de groene koofer van mijn broer.
 De boeken zitten in de groene koffer van mijn broer.
 
+--- Dag 897
+
+Hij is onze gids.
+Hij is onze gids.
+Ik find jouw oranje zak leuk.
+Ik find jouw oranje rugzak leuk.
+Ik find jouw oranje rugzak leuk.
+Amsterdam heeft veel toeristen.
+Amsterdam heeft veel toeristen.
+Ik ben een toerist.
+Mijn vlucht vertrekt op vier uur.
+Mijn vlucht vertrekt om vier uur.
+Wanneer vertrket de volgende vlucht naar Amsterdam?
+Wanneer vertrekt de volgende vlucht naar Amsterdam?
+Wanneer vertrekt naar Amsterdam de volgende vlucht?
+Wanneer vertrekt de volgende vlucht naar Amsterdam?
+De toeristen bezoeken de Nederlandse windmolens.
+De toeristen bezoeken de Nederlandse windmolens.
+Haar a..... zijn nix voor mij.
+Haar avondturen zijn niks voor mij.
+Haar avonturen zijn niks voor mij.
+Hebben wij een gids?
+De stad is vol toeristen.
+De avonturen begint.
+De avontur begint.
+Het avontuur begint.
+Het avontuur begint.
+Kan ik een windmolen bezoeken?
+Kan ik een windmolen bezoeken?
+Zijn wil Amsterdam bezoeken.
+Zij wil Amsterdam bezoeken.
+Ik vind jouw oranje rugzaak leuk.
+Ik vind jouw oranje rugzak leuk.
+Wanneer vertrekt de laagste trein naar Amsterdam?
+Wanneer vertrekt de laatste trein naar Amsterdam?
+Amsterdam heeft veel toeristen.
+Mijn vlucht vertrekt op vier uur.
+Het adventuur begint.
+Het avuntuur begint.
+Mijn vlucht vertrekt op vier uur.
+Het avontuur begint.
+
 ---
