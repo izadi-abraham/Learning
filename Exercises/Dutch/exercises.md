@@ -11299,4 +11299,33 @@ Het avuntuur begint.
 Mijn vlucht vertrekt op vier uur.
 Het avontuur begint.
 
+--- Dag 898
+
+Is het veer weg?
+Is het ver weg?
+Kan dit tapijt vliegen?
+.... Mijn vacantie is over.
+voorbij mijn vacantie is helaas.
+Mijn vacantie is helaas voobij.
+Mijn vakantie is helaas voorbij.
+Mijn vakantie is helaas voorbij.
+Het vliegtuig vliegt over de oceaan heen.
+Het vliegtuig vliegt over de oceaan heen.
+De acteur is bang te vliegen.
+De acteur is bang om te vliegen.
+Mijn vakantie is helaas voorbij.
+Wanneer is jullie volgende bezoek?
+Hij is in het vliegtuig.
+Hij zit in het vliegtuig.
+Het vliegtuig vliegt over de oceaan heen.
+Het vliegtuig is hier nog niet.
+Het vliegtuig is hier nog niet.
+Kan dit tapijt vliegen?
+Ik vlieg elke zomer naar Amerika.
+Hoe ver is het?
+Is het ver weg?
+Hoe ver is het naar de stad?
+Is Engeland ver weg naar Nederland en Belgie?
+Ligt Engeland ver van Nederland en Belgie?
+
 ---
