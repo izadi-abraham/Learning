@@ -138,3 +138,10 @@ So in the current architecture we do:
 - Worker (webhook worker - lambda)
 - Write to COS
 
+In a **webhook** the party where events happen makes the call, and the party that wants to react hosts the endpoint.
+This inverts normal API vocabulary:
+- In normal API, the provider of the data hosts the server, but in webhooks the provider of the data is the HTTP client and consumer of the data must stand up an HTTP server.
+- The **webhooks** gets called a **reverse API**. You implement an endpoint to their specification - They dictate the payload shape, the signature scheme, the retry behaviour and all you contribute is a url that's ready to answer.
+- The consumer / who wnats to react on the events can name the prepared URL by itself an **incoming webhook** and the source / provider of the data who calls the endpoint names that an **outgoing integration**.
+
+
