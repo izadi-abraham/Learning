@@ -11328,4 +11328,35 @@ Hoe ver is het naar de stad?
 Is Engeland ver weg naar Nederland en Belgie?
 Ligt Engeland ver van Nederland en Belgie?
 
+--- Dag 899
+
+Ik wil een zeilboot.
+Mijn boot is blauw.
+Ik wil een zeilboot.
+Schepen ...... in deze gebiede.
+Schepen varen in deze gebiede.
+Schepen varen in deze gebieden.
+Schepen varen in deze gebieden.
+Ik zie honderd schepen.
+Wij gaan naar Engeland met veerboot.
+Wij gaan met de veerboot naar Engeland.
+De veerboot vart dag en nacht.
+De veerboot vaart dag en nacht.
+De schip vaart naar Engeland.
+Het shcip vaart naar Engeland.
+Mijn vader heeft een zeilboot van twaalf meter.
+Waar liggen jouw schepen?
+De schepen vertreken naar Engeland.
+De schepen vertrekken naar Engeland.
+Het schip is in de haven.
+Het schip vaart naar Engeland.
+Wij gaan met de veerboot naar Engeland.
+De boot van zijn .... ligt in andere stad.
+De boot van zijn oom is in een andere stad.
+Saskia heeft twee huizen en een boot.
+Elk schip heeft een kapitein noodig.
+Wij gaan met de veerboot naar Engeland.
+Het schip vaart naar Engeland.
+
 ---
+
