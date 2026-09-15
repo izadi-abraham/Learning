@@ -11358,5 +11358,39 @@ Elk schip heeft een kapitein noodig.
 Wij gaan met de veerboot naar Engeland.
 Het schip vaart naar Engeland.
 
+--- Dag 900
+
+Ik heb geen pasport.
+Ik heb geen paspoort.
+Internationale vluchten zijn duurt.
+Internationale vluchten zijn duur.
+U moet een visum aanvragen.
+Kunt u een andere route naar ambasade nemen?
+Kunt u een andere route naar ambassade nemen?
+De .... zijn voor toeristen.
+De bezienswaardigheden zijn voor toeristen.
+De bezienswaardigheden zijn voor toeristen.
+Internationale vluchten zijn duur.
+Hebben we onze paspoort nodig?
+Hebben wij onze paspoorten nodig?
+Je moet een visum aanvragen.
+Je moet een visum krijgen.
+Je moet een visum krijgen.
+Het is een internationale stad.
+Het is een internationale stad.
+Je moet een visum krijgen.
+Hij kan een visum aanvragen bij de ambassade in Amsterdam.
+Wij bezoeken de bezienswaardigheden.
+Ik houd van deze bezienswaardigheid.
+Ik aanvrag een visum voordat ik op vakantie ga.
+Ik vraag een visum aan voordat ik op vakantie ga.
+Ik vraag een nieuw paspoort aan, voordat ik op vakantie ga.
+Ik vraag een nieuw paspoort aan, voordat ik op vakantie ga.
+Hebben wij onze paspoorten nodig?
+De ambassade staat een andere kant van de straat.
+De ambassade staat aan een andere kant van de straat.
+De ambassade staat aan de andere kant van de straat.
+Hebben wij onze paspoorten nodig?
+
 ---
 
